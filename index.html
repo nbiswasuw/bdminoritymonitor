@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incident Tracker | Bangladesh</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.css" />
+
+    <style>
+        :root { --primary: #2c3e50; --accent: #e74c3c; }
+        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; }
+        
+        /* Header */
+        header { background: var(--primary); color: white; padding: 1rem; display: flex; justify-content: space-between; align-items: center; z-index: 1001; }
+        nav a { color: white; margin-left: 15px; text-decoration: none; font-size: 0.9rem; }
+
+        /* Map Area */
+        #map { flex-grow: 1; width: 100%; z-index: 1; }
+
+        /* Floating Filter Box (Mobile Optimized) */
+        .filter-container {
+            position: absolute; top: 80px; right: 10px; z-index: 1000;
+            background: white; padding: 10px; border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2); width: 180px;
+        }
+        .filter-item { display: flex; align-items: center; margin-bottom: 5px; font-size: 0.85rem; }
+        .filter-item input { margin-right: 8px; }
+
+        /* Timeline Slider (Bottom) */
+        .timeline-container {
+            position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%);
+            width: 80%; max-width: 600px; z-index: 1000;
+            background: rgba(255, 255, 255, 0.9); padding: 20px 30px;
+            border-radius: 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        #date-range-label { text-align: center; font-weight: bold; margin-bottom: 10px; font-size: 0.8rem; }
+
+        /* Legend for Heat vs Points */
+        .zoom-hint { position: absolute; bottom: 120px; left: 10px; z-index: 1000; background: white; padding: 5px; font-size: 10px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <strong>MinorityWatch BD</strong>
+    <nav>
+        <a href="#">Dashboard</a>
+        <a href="#">About</a>
+        <a href="#">Data</a>
+    </nav>
+</header>
+
+<div id="map"></div>
+
+<div class="filter-container">
+    <strong>Filter Type</strong>
+    <div id="type-filters">
+        </div>
+</div>
+
+<div class="zoom-hint">Zoom in to see individual incidents</div>
+
+<div class="timeline-container">
+    <div id="date-range-label">Loading timeline...</div>
+    <div id="slider"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.7.1/nouislider.min.js"></script>
+
+<script>
+    // 1. INITIALIZE MAP
+    const map = L.map('map', { zoomSnap: 0.5 }).setView([23.685, 90.356], 7);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    let allData = [];
+    let heatLayer = null;
+    let markers = L.markerClusterGroup();
+    const typeFilters = document.getElementById('type-filters');
+
+    // 2. LOAD DATA
+    // Replace 'data.csv' with your actual file path
+    Papa.parse("data.csv", {
+        download: true,
+        header: true,
+        dynamicTyping: true,
+        complete: function(results) {
+            allData = results.data.filter(d => d.lat && d.lon); // Clean nulls
+            initFilters(allData);
+            initTimeline(allData);
+            updateMap();
+        }
+    });
+
+    // 3. FILTER LOGIC
+    function initFilters(data) {
+        const types = [...new Set(data.map(d => d.type))];
+        types.forEach(type => {
+            const div = document.createElement('div');
+            div.className = 'filter-item';
+            div.innerHTML = `<input type="checkbox" checked value="${type}"> <span>${type}</span>`;
+            div.querySelector('input').addEventListener('change', updateMap);
+            typeFilters.appendChild(div);
+        });
+    }
+
+    // 4. TIMELINE LOGIC
+    function initTimeline(data) {
+        const timestamps = data.map(d => new Date(d.date).getTime()).sort();
+        const min = timestamps[0];
+        const max = timestamps[timestamps.length - 1];
+
+        const slider = document.getElementById('slider');
+        noUiSlider.create(slider, {
+            start: [min, max],
+            connect: true,
+            range: { 'min': min, 'max': max },
+            step: 24 * 60 * 60 * 1000 // 1 day steps
+        });
+
+        slider.noUiSlider.on('update', (values) => {
+            const start = new Date(parseInt(values[0])).toLocaleDateString();
+            const end = new Date(parseInt(values[1])).toLocaleDateString();
+            document.getElementById('date-range-label').innerText = `${start} — ${end}`;
+            updateMap();
+        });
+    }
+
+    // 5. CORE UPDATE FUNCTION (Zoom + Filter Switch)
+    function updateMap() {
+        if (allData.length === 0) return;
+
+        // Clear layers
+        if (heatLayer) map.removeLayer(heatLayer);
+        markers.clearLayers();
+
+        // Get Filter States
+        const selectedTypes = Array.from(typeFilters.querySelectorAll('input:checked')).map(i => i.value);
+        const sliderValues = document.getElementById('slider').noUiSlider.get();
+        const minDate = parseInt(sliderValues[0]);
+        const maxDate = parseInt(sliderValues[1]);
+
+        // Filter Data
+        const filtered = allData.filter(d => {
+            const dDate = new Date(d.date).getTime();
+            return selectedTypes.includes(d.type) && dDate >= minDate && dDate <= maxDate;
+        });
+
+        // Toggle Visual Style based on Zoom
+        if (map.getZoom() < 9) {
+            const heatPoints = filtered.map(d => [d.lat, d.lon, 0.5]);
+            heatLayer = L.heatLayer(heatPoints, {radius: 20, blur: 15, max: 1.0}).addTo(map);
+        } else {
+            filtered.forEach(d => {
+                const m = L.marker([d.lat, d.lon]).bindPopup(`
+                    <div style="font-family:sans-serif">
+                        <h4 style="margin:0">${d.title}</h4>
+                        <p style="color:#666; font-size:12px">${d.date} | <b>${d.type}</b></p>
+                        <p>${d.description || 'No additional details available.'}</p>
+                    </div>
+                `);
+                markers.addLayer(m);
+            });
+            map.addLayer(markers);
+        }
+    }
+
+    map.on('zoomend', updateMap);
+</script>
+
+</body>
+</html>
