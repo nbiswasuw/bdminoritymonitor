@@ -1,17 +1,2001 @@
 lat,lon,date,title,type,description
-25.6277,88.6377,2012-01-15,Killings,Killings
-23.8291,90.4125,2023-05-14,Property Damage,Property Damage
-22.3304,91.8316,2020-11-22,Temple Destruction,Temple Destruction
-24.3636,88.6241,2025-08-01,Temple Destruction,Temple Destruction
-25.7439,89.2752,2021-03-12,Killings,Killings
-21.4272,92.0058,2024-10-31,Killings,Killings
-24.8949,91.8687,2022-06-19,Temple Destruction,Temple Destruction
-22.7010,90.3535,2023-12-05,Killings,Killings
-23.4607,91.1809,2020-01-15,Temple Destruction,Temple Destruction
-25.1324,91.9333,2025-04-20,Temple Destruction,Temple Destruction
-26.3351,88.5517,2021-09-08,Killings,Killings
-24.1201,90.2304,2024-02-14,Temple Destruction,Temple Destruction
-22.5113,89.5701,2022-11-27,Killings,Killings
-23.9512,90.1145,2020-07-04,Temple Destruction,Temple Destruction
-21.8499,90.1581,2023-08-18,Killings,Killings
-25.6214,88.6358,2025-12-25,Temple Destruction,Temple Destruction
+22.167035,91.916676,2022-11-09,Forceful Migration,Forceful Migration
+26.02212,92.35532,2023-10-22,Vandalism,Vandalism
+21.383726,91.02913,2021-08-08,Physical Harrasement,Physical Harrasement
+23.482212,88.101181,2020-10-06,Vandalism,Vandalism
+25.233156,92.033764,2023-08-14,Physical Harrasement,Physical Harrasement
+21.007383,89.50238,2023-06-25,Killing/Death,Killing/Death
+24.474114,91.267362,2022-12-30,Physical Harrasement,Physical Harrasement
+21.51649,88.760284,2021-02-24,Temple Destruction,Temple Destruction
+23.732436,88.145446,2022-03-29,Forceful Migration,Forceful Migration
+20.860898,88.91524,2023-07-29,Temple Destruction,Temple Destruction
+26.306559,90.596805,2024-10-15,Property Damage,Property Damage
+24.596708,91.085561,2024-10-15,Vandalism,Vandalism
+26.121736,91.040521,2024-01-22,Temple Destruction,Temple Destruction
+24.533618,88.507012,2025-11-29,Temple Destruction,Temple Destruction
+23.592681,88.778394,2023-03-23,Physical Harrasement,Physical Harrasement
+23.677442,91.540373,2024-04-10,Forceful Migration,Forceful Migration
+23.821639,89.830132,2024-08-31,Killing/Death,Killing/Death
+20.942877,91.160494,2021-06-03,Physical Harrasement,Physical Harrasement
+22.087138,89.17037,2021-12-30,Forceful Migration,Forceful Migration
+22.351828,91.015029,2020-05-21,Property Damage,Property Damage
+22.583496,90.246416,2021-10-24,Forceful Migration,Forceful Migration
+26.076053,89.35987,2025-05-09,Vandalism,Vandalism
+23.783684,88.524255,2020-11-18,Forceful Migration,Forceful Migration
+20.661462,90.363335,2022-07-20,Temple Destruction,Temple Destruction
+25.65772,90.870956,2022-12-06,Killing/Death,Killing/Death
+23.389154,88.547818,2024-09-12,Killing/Death,Killing/Death
+20.915123,88.427759,2020-09-29,Forceful Migration,Forceful Migration
+22.443356,89.535917,2021-09-30,Temple Destruction,Temple Destruction
+24.994054,90.904098,2022-02-08,Property Damage,Property Damage
+24.606339,88.62083,2021-07-11,Property Damage,Property Damage
+21.590717,89.551164,2024-03-05,Property Damage,Property Damage
+21.058067,89.264493,2020-06-27,Forceful Migration,Forceful Migration
+23.619255,90.496949,2025-12-20,Physical Harrasement,Physical Harrasement
+21.831606,90.935969,2025-04-09,Property Damage,Property Damage
+24.491473,88.9894,2022-10-27,Temple Destruction,Temple Destruction
+22.517359,89.462597,2023-06-10,Vandalism,Vandalism
+25.986034,91.36325,2022-06-01,Forceful Migration,Forceful Migration
+22.205015,88.14954,2023-10-18,Property Damage,Property Damage
+24.137704,90.658978,2021-02-20,Forceful Migration,Forceful Migration
+23.76029,90.926395,2025-08-27,Killing/Death,Killing/Death
+22.655047,91.95629,2022-05-13,Temple Destruction,Temple Destruction
+25.859246,92.54121,2022-06-21,Property Damage,Property Damage
+25.50779,90.365949,2023-04-30,Temple Destruction,Temple Destruction
+21.119039,88.711115,2025-01-20,Physical Harrasement,Physical Harrasement
+26.117737,89.206479,2020-11-03,Physical Harrasement,Physical Harrasement
+22.357292,90.26824,2023-07-13,Property Damage,Property Damage
+25.733748,89.621702,2021-04-18,Vandalism,Vandalism
+25.94989,89.325346,2022-05-06,Physical Harrasement,Physical Harrasement
+22.452477,88.313033,2025-02-21,Forceful Migration,Forceful Migration
+26.197345,91.774055,2023-10-02,Temple Destruction,Temple Destruction
+25.212922,89.74657,2021-12-20,Forceful Migration,Forceful Migration
+25.484663,88.378459,2020-07-30,Property Damage,Property Damage
+24.00009,91.453362,2024-09-05,Physical Harrasement,Physical Harrasement
+25.606047,91.29861,2021-09-07,Physical Harrasement,Physical Harrasement
+24.337165,92.007647,2023-07-10,Temple Destruction,Temple Destruction
+24.71704,89.467117,2023-07-08,Killing/Death,Killing/Death
+24.925465,90.073616,2023-12-23,Forceful Migration,Forceful Migration
+21.255946,90.780324,2025-05-16,Temple Destruction,Temple Destruction
+23.89301,89.32087,2021-02-08,Forceful Migration,Forceful Migration
+23.489009,91.144045,2025-05-11,Temple Destruction,Temple Destruction
+24.732115,91.445895,2020-02-23,Property Damage,Property Damage
+25.289359,89.97671,2025-06-20,Property Damage,Property Damage
+22.144307,90.09632,2022-05-03,Property Damage,Property Damage
+21.178089,91.492534,2025-08-23,Physical Harrasement,Physical Harrasement
+23.284518,90.265387,2021-06-02,Temple Destruction,Temple Destruction
+25.328842,92.093573,2025-01-04,Property Damage,Property Damage
+20.82111,89.985136,2020-08-06,Killing/Death,Killing/Death
+24.719497,89.717148,2024-02-28,Physical Harrasement,Physical Harrasement
+22.920788,88.764197,2023-09-28,Temple Destruction,Temple Destruction
+25.417876,90.925629,2024-12-07,Property Damage,Property Damage
+21.089235,88.784201,2024-04-12,Physical Harrasement,Physical Harrasement
+26.010908,90.667819,2020-10-12,Property Damage,Property Damage
+21.651657,91.320955,2025-11-02,Temple Destruction,Temple Destruction
+25.134467,90.42091,2022-06-19,Property Damage,Property Damage
+23.049834,89.008588,2021-08-16,Physical Harrasement,Physical Harrasement
+22.635201,92.328261,2024-10-20,Temple Destruction,Temple Destruction
+24.728824,89.79489,2024-06-08,Forceful Migration,Forceful Migration
+24.825402,90.964096,2022-08-20,Forceful Migration,Forceful Migration
+25.01976,90.185662,2023-08-28,Vandalism,Vandalism
+23.014303,91.084711,2023-02-09,Physical Harrasement,Physical Harrasement
+23.943925,89.803038,2024-10-08,Temple Destruction,Temple Destruction
+23.525856,88.296768,2020-02-28,Physical Harrasement,Physical Harrasement
+23.391862,88.561073,2024-03-02,Killing/Death,Killing/Death
+22.617211,88.773507,2025-05-17,Killing/Death,Killing/Death
+20.860722,89.161483,2021-11-09,Vandalism,Vandalism
+22.898616,92.646449,2021-03-17,Temple Destruction,Temple Destruction
+25.271129,91.598815,2023-01-16,Physical Harrasement,Physical Harrasement
+26.400326,90.181663,2023-01-02,Forceful Migration,Forceful Migration
+22.497907,92.324405,2021-08-31,Physical Harrasement,Physical Harrasement
+20.989372,91.629742,2024-11-03,Physical Harrasement,Physical Harrasement
+24.207509,90.346846,2025-07-08,Property Damage,Property Damage
+22.088834,90.553996,2020-12-02,Property Damage,Property Damage
+23.441417,90.070846,2023-01-19,Killing/Death,Killing/Death
+25.291441,89.493714,2025-07-19,Temple Destruction,Temple Destruction
+26.228331,91.465877,2023-07-25,Property Damage,Property Damage
+25.670994,92.47031,2022-10-17,Temple Destruction,Temple Destruction
+25.968752,91.170342,2024-04-01,Temple Destruction,Temple Destruction
+23.921798,90.653164,2020-12-14,Physical Harrasement,Physical Harrasement
+24.246046,90.289608,2024-02-25,Killing/Death,Killing/Death
+22.98355,90.079725,2020-03-24,Vandalism,Vandalism
+24.825859,92.192692,2024-07-26,Vandalism,Vandalism
+23.709685,88.118741,2025-01-18,Forceful Migration,Forceful Migration
+24.449606,91.442123,2022-11-13,Killing/Death,Killing/Death
+24.976641,88.397065,2022-07-29,Property Damage,Property Damage
+25.320084,90.239579,2025-07-31,Physical Harrasement,Physical Harrasement
+21.888772,90.007465,2020-11-20,Forceful Migration,Forceful Migration
+22.240798,89.360099,2023-12-27,Property Damage,Property Damage
+25.731623,89.757449,2023-12-18,Temple Destruction,Temple Destruction
+24.159274,89.665273,2025-06-18,Forceful Migration,Forceful Migration
+25.139468,91.11045,2022-09-10,Vandalism,Vandalism
+26.517837,89.073159,2021-03-28,Killing/Death,Killing/Death
+23.372919,89.44355,2023-05-04,Physical Harrasement,Physical Harrasement
+24.700811,88.835934,2024-12-24,Physical Harrasement,Physical Harrasement
+23.181902,91.005006,2022-10-17,Forceful Migration,Forceful Migration
+23.250517,89.519107,2023-01-06,Physical Harrasement,Physical Harrasement
+21.703822,88.248945,2020-05-20,Forceful Migration,Forceful Migration
+21.390853,91.983549,2024-03-28,Forceful Migration,Forceful Migration
+21.10139,88.751589,2021-09-30,Physical Harrasement,Physical Harrasement
+25.457237,90.294265,2025-03-15,Physical Harrasement,Physical Harrasement
+23.051966,92.164558,2022-09-24,Vandalism,Vandalism
+25.597,88.087936,2022-11-10,Vandalism,Vandalism
+21.062854,89.57861,2024-08-16,Temple Destruction,Temple Destruction
+21.343808,88.317924,2023-06-05,Vandalism,Vandalism
+21.564123,92.248928,2021-10-19,Forceful Migration,Forceful Migration
+25.629309,91.223512,2025-06-04,Vandalism,Vandalism
+24.319227,88.80814,2021-08-11,Killing/Death,Killing/Death
+23.251643,89.513065,2025-12-20,Physical Harrasement,Physical Harrasement
+21.370833,89.222328,2020-10-12,Physical Harrasement,Physical Harrasement
+22.329723,88.263493,2025-07-22,Killing/Death,Killing/Death
+24.927041,90.211005,2022-05-03,Forceful Migration,Forceful Migration
+20.805531,92.516109,2021-02-15,Physical Harrasement,Physical Harrasement
+24.747443,92.349871,2021-12-26,Vandalism,Vandalism
+21.648321,92.666227,2024-05-18,Temple Destruction,Temple Destruction
+25.171123,92.075201,2023-01-07,Vandalism,Vandalism
+21.456017,90.02705,2022-02-14,Killing/Death,Killing/Death
+25.505956,92.044826,2022-12-15,Killing/Death,Killing/Death
+26.592666,91.513959,2022-05-31,Property Damage,Property Damage
+21.15564,89.403608,2022-10-17,Vandalism,Vandalism
+24.302317,89.288095,2022-08-04,Property Damage,Property Damage
+23.855383,88.720068,2023-12-26,Physical Harrasement,Physical Harrasement
+21.370322,90.280202,2020-04-17,Killing/Death,Killing/Death
+25.725993,89.629164,2021-01-09,Physical Harrasement,Physical Harrasement
+24.771964,90.832536,2023-01-24,Property Damage,Property Damage
+21.669339,89.453093,2020-01-23,Property Damage,Property Damage
+20.776307,90.245377,2022-10-15,Forceful Migration,Forceful Migration
+20.884045,88.813154,2023-10-03,Temple Destruction,Temple Destruction
+21.879273,89.563757,2023-03-13,Physical Harrasement,Physical Harrasement
+26.038762,91.178046,2020-06-18,Killing/Death,Killing/Death
+23.620912,92.387989,2022-05-10,Killing/Death,Killing/Death
+23.07255,90.980215,2025-05-08,Forceful Migration,Forceful Migration
+25.31886,88.283071,2021-09-18,Vandalism,Vandalism
+26.348096,88.024812,2024-09-07,Temple Destruction,Temple Destruction
+26.407322,90.443238,2022-12-22,Physical Harrasement,Physical Harrasement
+22.378574,92.054498,2022-10-31,Vandalism,Vandalism
+22.129916,90.666144,2025-01-05,Vandalism,Vandalism
+23.64572,88.14955,2021-04-22,Physical Harrasement,Physical Harrasement
+26.4733,91.6344,2021-10-30,Temple Destruction,Temple Destruction
+22.565886,88.072038,2023-08-11,Vandalism,Vandalism
+24.134407,90.571625,2020-02-12,Vandalism,Vandalism
+23.258098,90.771266,2025-04-01,Physical Harrasement,Physical Harrasement
+24.863344,88.379639,2020-01-16,Forceful Migration,Forceful Migration
+22.237385,90.261925,2024-12-07,Forceful Migration,Forceful Migration
+25.998878,91.021048,2025-01-30,Physical Harrasement,Physical Harrasement
+24.1277,88.835219,2025-08-10,Vandalism,Vandalism
+20.603814,92.174392,2023-01-08,Killing/Death,Killing/Death
+20.856868,88.603784,2022-12-19,Physical Harrasement,Physical Harrasement
+22.739034,90.971863,2020-03-17,Forceful Migration,Forceful Migration
+22.515935,91.388835,2020-06-08,Forceful Migration,Forceful Migration
+23.561356,88.305727,2020-02-14,Temple Destruction,Temple Destruction
+23.273796,90.096265,2025-09-01,Property Damage,Property Damage
+21.878035,92.699436,2022-05-11,Forceful Migration,Forceful Migration
+23.725781,89.225793,2021-01-18,Physical Harrasement,Physical Harrasement
+22.374149,89.892757,2020-09-13,Physical Harrasement,Physical Harrasement
+22.948657,92.013454,2020-07-06,Temple Destruction,Temple Destruction
+22.651944,90.226439,2024-12-27,Forceful Migration,Forceful Migration
+24.737108,91.290673,2022-03-14,Killing/Death,Killing/Death
+24.673195,88.744913,2020-12-23,Property Damage,Property Damage
+22.147312,92.594081,2022-01-31,Killing/Death,Killing/Death
+26.554692,90.20632,2025-11-19,Property Damage,Property Damage
+25.655253,88.318173,2023-02-20,Property Damage,Property Damage
+21.663284,90.755262,2023-11-02,Physical Harrasement,Physical Harrasement
+26.122076,89.677347,2023-06-04,Vandalism,Vandalism
+22.338241,88.787531,2025-11-26,Physical Harrasement,Physical Harrasement
+23.992111,90.655422,2021-01-10,Forceful Migration,Forceful Migration
+24.382536,92.029228,2025-08-07,Forceful Migration,Forceful Migration
+21.189545,89.581042,2025-12-07,Vandalism,Vandalism
+22.6952,89.954859,2021-04-23,Property Damage,Property Damage
+22.747753,90.094133,2020-03-12,Killing/Death,Killing/Death
+22.130471,89.39561,2022-01-25,Vandalism,Vandalism
+21.160448,88.617809,2025-01-19,Physical Harrasement,Physical Harrasement
+25.966944,91.655185,2020-12-02,Forceful Migration,Forceful Migration
+23.062899,89.912586,2024-10-01,Forceful Migration,Forceful Migration
+22.447568,92.586448,2022-10-17,Vandalism,Vandalism
+25.088725,92.424892,2021-04-23,Temple Destruction,Temple Destruction
+22.4656,89.188559,2024-04-19,Killing/Death,Killing/Death
+21.16947,90.397368,2022-02-11,Temple Destruction,Temple Destruction
+22.316977,91.648282,2023-02-13,Property Damage,Property Damage
+21.721863,88.391745,2025-01-18,Killing/Death,Killing/Death
+26.186059,92.440831,2025-12-25,Temple Destruction,Temple Destruction
+24.177294,91.951089,2024-06-05,Property Damage,Property Damage
+26.311027,88.204108,2025-02-23,Temple Destruction,Temple Destruction
+20.738371,92.114941,2023-02-17,Temple Destruction,Temple Destruction
+24.276518,90.705146,2021-12-31,Temple Destruction,Temple Destruction
+24.899972,89.254423,2025-05-11,Physical Harrasement,Physical Harrasement
+23.946395,88.692549,2024-08-21,Property Damage,Property Damage
+22.947435,88.239815,2023-09-19,Property Damage,Property Damage
+25.890971,90.741087,2022-08-01,Forceful Migration,Forceful Migration
+24.144209,92.502485,2021-04-22,Forceful Migration,Forceful Migration
+21.467452,89.932661,2024-11-06,Temple Destruction,Temple Destruction
+20.929943,88.293107,2023-12-02,Killing/Death,Killing/Death
+20.722112,89.629242,2022-08-29,Physical Harrasement,Physical Harrasement
+24.921284,91.030396,2023-08-14,Killing/Death,Killing/Death
+25.257949,90.260907,2021-02-16,Temple Destruction,Temple Destruction
+23.586439,91.585056,2025-09-24,Physical Harrasement,Physical Harrasement
+22.725314,91.580017,2023-03-18,Forceful Migration,Forceful Migration
+22.637481,92.08571,2022-10-31,Physical Harrasement,Physical Harrasement
+23.333236,89.591466,2025-07-10,Killing/Death,Killing/Death
+24.724354,90.659529,2022-12-23,Vandalism,Vandalism
+26.079585,90.242267,2024-03-22,Forceful Migration,Forceful Migration
+22.755389,92.431198,2024-01-10,Physical Harrasement,Physical Harrasement
+22.983931,92.341026,2023-07-25,Temple Destruction,Temple Destruction
+26.126118,88.478155,2022-01-01,Vandalism,Vandalism
+20.767427,91.405924,2025-05-25,Vandalism,Vandalism
+24.073842,89.155425,2023-01-18,Vandalism,Vandalism
+25.734619,88.237471,2020-04-22,Vandalism,Vandalism
+24.22806,91.000683,2021-08-21,Forceful Migration,Forceful Migration
+23.225379,89.971796,2021-10-10,Physical Harrasement,Physical Harrasement
+21.753257,89.975034,2025-07-27,Vandalism,Vandalism
+24.179482,92.068299,2023-07-23,Physical Harrasement,Physical Harrasement
+25.091332,90.656078,2025-02-19,Physical Harrasement,Physical Harrasement
+25.517149,88.651362,2022-08-31,Forceful Migration,Forceful Migration
+21.233352,88.256897,2024-06-10,Temple Destruction,Temple Destruction
+21.314892,88.603041,2022-05-25,Temple Destruction,Temple Destruction
+23.398462,91.903758,2024-08-28,Property Damage,Property Damage
+21.124985,89.395936,2024-09-10,Killing/Death,Killing/Death
+26.192559,91.534377,2024-07-18,Physical Harrasement,Physical Harrasement
+22.107851,89.55351,2022-12-30,Vandalism,Vandalism
+20.740915,91.923306,2025-11-06,Property Damage,Property Damage
+21.536673,90.853156,2020-03-08,Temple Destruction,Temple Destruction
+26.18514,92.034376,2021-05-01,Vandalism,Vandalism
+24.881671,92.4615,2020-05-09,Vandalism,Vandalism
+24.959808,89.969706,2025-01-10,Property Damage,Property Damage
+26.195943,90.333168,2020-01-25,Temple Destruction,Temple Destruction
+24.285334,91.034899,2020-08-22,Property Damage,Property Damage
+23.388073,92.355364,2021-02-28,Forceful Migration,Forceful Migration
+24.63667,90.550812,2025-12-09,Killing/Death,Killing/Death
+20.700971,90.868654,2022-05-26,Killing/Death,Killing/Death
+24.835233,88.186755,2020-08-03,Property Damage,Property Damage
+22.722161,90.945656,2023-05-09,Vandalism,Vandalism
+24.594265,89.393532,2023-03-14,Forceful Migration,Forceful Migration
+25.938537,88.512466,2024-10-11,Killing/Death,Killing/Death
+22.141802,88.986912,2020-11-19,Forceful Migration,Forceful Migration
+24.441862,92.041165,2023-11-20,Vandalism,Vandalism
+24.812403,92.084989,2021-12-15,Forceful Migration,Forceful Migration
+21.936715,88.344351,2023-04-08,Temple Destruction,Temple Destruction
+24.841931,89.619627,2024-07-28,Property Damage,Property Damage
+22.27138,92.366763,2022-09-27,Forceful Migration,Forceful Migration
+24.808604,91.192743,2024-01-29,Killing/Death,Killing/Death
+24.004454,92.691994,2022-05-13,Temple Destruction,Temple Destruction
+26.007193,89.46465,2025-06-21,Vandalism,Vandalism
+25.033798,89.529657,2021-08-12,Temple Destruction,Temple Destruction
+22.818874,88.170256,2023-10-01,Forceful Migration,Forceful Migration
+22.560896,88.247477,2020-06-07,Forceful Migration,Forceful Migration
+23.488751,92.556846,2025-02-04,Vandalism,Vandalism
+23.020769,90.195799,2023-12-21,Property Damage,Property Damage
+23.814717,91.994134,2021-06-16,Vandalism,Vandalism
+26.005292,92.068939,2022-05-08,Physical Harrasement,Physical Harrasement
+25.158986,91.563076,2023-05-20,Temple Destruction,Temple Destruction
+21.776752,89.08167,2023-12-28,Property Damage,Property Damage
+24.4772,89.646833,2024-04-07,Killing/Death,Killing/Death
+22.043872,88.855176,2023-12-22,Killing/Death,Killing/Death
+24.506459,91.356818,2020-03-08,Temple Destruction,Temple Destruction
+21.30123,91.619348,2020-10-02,Vandalism,Vandalism
+23.369063,88.941108,2023-11-29,Forceful Migration,Forceful Migration
+22.518845,88.194437,2020-05-25,Property Damage,Property Damage
+25.341974,90.974938,2022-08-21,Property Damage,Property Damage
+22.854457,91.835978,2020-10-16,Forceful Migration,Forceful Migration
+26.339506,90.583825,2024-09-11,Killing/Death,Killing/Death
+22.79106,89.388169,2023-01-17,Vandalism,Vandalism
+23.474655,91.019027,2023-06-25,Killing/Death,Killing/Death
+22.105001,88.015021,2025-11-25,Temple Destruction,Temple Destruction
+23.154508,92.565532,2020-02-19,Temple Destruction,Temple Destruction
+24.580773,89.12432,2023-10-01,Temple Destruction,Temple Destruction
+24.056918,89.603388,2022-08-11,Property Damage,Property Damage
+25.310859,88.6535,2020-02-09,Killing/Death,Killing/Death
+23.717488,90.973065,2022-03-04,Property Damage,Property Damage
+22.073965,90.386895,2023-11-12,Forceful Migration,Forceful Migration
+25.323254,90.873071,2021-12-11,Killing/Death,Killing/Death
+24.614511,88.303165,2020-07-29,Temple Destruction,Temple Destruction
+25.698176,89.333911,2020-11-16,Physical Harrasement,Physical Harrasement
+21.634726,88.113817,2023-03-20,Temple Destruction,Temple Destruction
+25.213512,89.0808,2022-06-15,Temple Destruction,Temple Destruction
+21.966886,88.521432,2022-12-05,Physical Harrasement,Physical Harrasement
+24.888569,88.830271,2024-01-02,Temple Destruction,Temple Destruction
+23.606568,92.128837,2025-07-16,Vandalism,Vandalism
+24.978403,88.229116,2023-05-18,Temple Destruction,Temple Destruction
+25.171815,88.610593,2020-05-25,Vandalism,Vandalism
+23.581491,89.458531,2022-06-20,Vandalism,Vandalism
+22.666221,89.16427,2021-03-01,Temple Destruction,Temple Destruction
+24.256358,90.471926,2024-12-25,Property Damage,Property Damage
+21.203732,91.477811,2025-07-11,Forceful Migration,Forceful Migration
+21.78471,91.647379,2024-02-23,Vandalism,Vandalism
+25.541769,90.027484,2025-09-17,Physical Harrasement,Physical Harrasement
+23.345195,91.419502,2022-10-27,Physical Harrasement,Physical Harrasement
+20.706727,90.241256,2024-09-22,Physical Harrasement,Physical Harrasement
+22.00774,90.594178,2022-10-17,Temple Destruction,Temple Destruction
+25.155901,90.238776,2024-11-24,Forceful Migration,Forceful Migration
+21.032368,91.360619,2024-03-19,Vandalism,Vandalism
+25.683439,89.060897,2021-09-22,Killing/Death,Killing/Death
+21.361627,90.433587,2021-09-22,Temple Destruction,Temple Destruction
+23.595125,88.768599,2023-12-16,Killing/Death,Killing/Death
+24.221159,88.936546,2021-01-07,Physical Harrasement,Physical Harrasement
+21.043759,92.596633,2020-03-26,Forceful Migration,Forceful Migration
+25.77706,92.108167,2020-09-23,Killing/Death,Killing/Death
+25.569246,90.918199,2021-07-04,Temple Destruction,Temple Destruction
+23.54883,89.100497,2020-12-19,Property Damage,Property Damage
+23.825476,88.221325,2022-04-05,Temple Destruction,Temple Destruction
+21.646577,88.356584,2024-03-12,Property Damage,Property Damage
+22.898133,90.298051,2025-10-11,Killing/Death,Killing/Death
+21.919987,91.780798,2023-06-09,Forceful Migration,Forceful Migration
+23.860174,90.555092,2024-04-05,Physical Harrasement,Physical Harrasement
+23.629238,90.372086,2020-08-11,Physical Harrasement,Physical Harrasement
+26.363261,92.344885,2025-05-06,Forceful Migration,Forceful Migration
+25.426853,89.034773,2024-08-23,Vandalism,Vandalism
+24.228946,89.155671,2021-03-28,Killing/Death,Killing/Death
+21.635098,88.682027,2020-10-25,Physical Harrasement,Physical Harrasement
+24.75908,91.66055,2020-06-24,Killing/Death,Killing/Death
+26.019957,91.155593,2020-03-27,Vandalism,Vandalism
+23.902335,92.176506,2025-10-28,Temple Destruction,Temple Destruction
+21.605758,90.720916,2020-08-19,Property Damage,Property Damage
+21.207583,90.251584,2021-08-20,Physical Harrasement,Physical Harrasement
+21.065363,92.614068,2023-08-09,Property Damage,Property Damage
+22.937084,92.564532,2024-08-03,Physical Harrasement,Physical Harrasement
+21.998685,90.234647,2022-02-01,Killing/Death,Killing/Death
+20.692025,90.997223,2025-10-25,Vandalism,Vandalism
+26.017813,91.368566,2024-11-11,Vandalism,Vandalism
+21.093948,90.949045,2024-08-20,Forceful Migration,Forceful Migration
+23.290578,91.565946,2020-04-06,Temple Destruction,Temple Destruction
+25.67771,91.268479,2022-03-21,Property Damage,Property Damage
+23.784786,88.504573,2021-01-26,Temple Destruction,Temple Destruction
+24.614763,91.269995,2020-05-07,Physical Harrasement,Physical Harrasement
+26.5408,88.443497,2024-07-01,Temple Destruction,Temple Destruction
+25.067124,92.319278,2022-11-30,Forceful Migration,Forceful Migration
+22.846477,89.050201,2023-01-20,Property Damage,Property Damage
+26.553929,91.6876,2024-03-11,Killing/Death,Killing/Death
+23.307847,92.088976,2022-12-26,Property Damage,Property Damage
+25.544968,88.012841,2023-01-10,Killing/Death,Killing/Death
+25.00781,88.244714,2023-08-14,Killing/Death,Killing/Death
+21.268219,92.160426,2025-11-27,Vandalism,Vandalism
+24.05749,88.374137,2023-02-16,Killing/Death,Killing/Death
+25.567518,88.9483,2023-06-27,Forceful Migration,Forceful Migration
+21.311211,89.891416,2023-08-01,Physical Harrasement,Physical Harrasement
+22.002131,92.285666,2024-04-04,Killing/Death,Killing/Death
+25.221139,90.894323,2021-05-02,Physical Harrasement,Physical Harrasement
+22.335468,88.643281,2022-01-18,Property Damage,Property Damage
+21.234691,88.814066,2025-11-04,Vandalism,Vandalism
+25.303636,89.091769,2021-07-30,Forceful Migration,Forceful Migration
+25.932061,88.51322,2023-06-04,Vandalism,Vandalism
+25.53235,89.009716,2025-03-22,Vandalism,Vandalism
+26.528866,90.191746,2025-03-08,Temple Destruction,Temple Destruction
+23.181333,90.262969,2024-01-20,Temple Destruction,Temple Destruction
+21.102079,91.555078,2024-11-18,Temple Destruction,Temple Destruction
+24.948291,89.427403,2020-01-24,Temple Destruction,Temple Destruction
+24.576801,91.37922,2025-04-06,Physical Harrasement,Physical Harrasement
+25.734262,89.389685,2023-05-24,Property Damage,Property Damage
+20.755517,90.152882,2020-06-18,Forceful Migration,Forceful Migration
+21.975801,89.117853,2020-11-23,Vandalism,Vandalism
+24.473657,89.926854,2020-09-14,Property Damage,Property Damage
+22.303989,88.924387,2023-04-23,Temple Destruction,Temple Destruction
+20.616776,90.705633,2024-07-07,Forceful Migration,Forceful Migration
+25.626763,89.316918,2023-12-13,Vandalism,Vandalism
+22.993041,88.256829,2020-04-26,Physical Harrasement,Physical Harrasement
+20.895241,90.701851,2022-12-19,Property Damage,Property Damage
+25.746951,92.698602,2021-05-02,Temple Destruction,Temple Destruction
+24.291783,88.850121,2022-10-30,Physical Harrasement,Physical Harrasement
+21.267234,89.62111,2023-04-04,Vandalism,Vandalism
+22.017625,88.14131,2020-05-03,Temple Destruction,Temple Destruction
+26.502513,89.719646,2023-07-10,Forceful Migration,Forceful Migration
+24.182178,88.167042,2023-05-05,Killing/Death,Killing/Death
+23.861131,89.075169,2024-10-11,Property Damage,Property Damage
+24.843689,91.21502,2025-03-27,Property Damage,Property Damage
+23.291663,88.503805,2023-10-10,Property Damage,Property Damage
+22.162333,91.932346,2023-12-10,Temple Destruction,Temple Destruction
+21.572392,92.655505,2021-01-31,Killing/Death,Killing/Death
+24.741835,89.002832,2025-04-23,Physical Harrasement,Physical Harrasement
+22.862748,88.712319,2023-12-12,Physical Harrasement,Physical Harrasement
+20.831074,89.00582,2025-12-16,Temple Destruction,Temple Destruction
+21.175218,88.177128,2024-01-08,Temple Destruction,Temple Destruction
+22.53755,89.899186,2020-03-28,Vandalism,Vandalism
+23.438836,90.008164,2025-04-24,Property Damage,Property Damage
+20.728463,92.470591,2024-07-07,Physical Harrasement,Physical Harrasement
+24.963131,92.549922,2023-11-21,Killing/Death,Killing/Death
+25.992467,90.820263,2023-12-28,Physical Harrasement,Physical Harrasement
+25.82588,88.160907,2024-01-22,Forceful Migration,Forceful Migration
+26.306757,92.553057,2025-09-09,Property Damage,Property Damage
+25.880642,88.837171,2021-03-13,Physical Harrasement,Physical Harrasement
+23.69226,91.532665,2021-08-14,Forceful Migration,Forceful Migration
+25.961297,89.016373,2025-05-28,Killing/Death,Killing/Death
+23.920771,88.184436,2023-12-29,Forceful Migration,Forceful Migration
+24.373115,90.803068,2025-05-20,Property Damage,Property Damage
+25.46325,91.061036,2021-10-08,Temple Destruction,Temple Destruction
+25.830227,90.915138,2022-01-02,Temple Destruction,Temple Destruction
+26.425188,90.496058,2024-06-09,Vandalism,Vandalism
+20.902661,91.248999,2023-08-25,Temple Destruction,Temple Destruction
+24.639629,88.5324,2021-04-10,Property Damage,Property Damage
+23.119306,90.999081,2021-05-14,Killing/Death,Killing/Death
+22.408181,89.024786,2024-04-26,Temple Destruction,Temple Destruction
+20.81788,90.015624,2022-03-22,Temple Destruction,Temple Destruction
+23.130978,91.861861,2022-12-15,Physical Harrasement,Physical Harrasement
+21.825862,88.342639,2025-05-11,Forceful Migration,Forceful Migration
+21.395276,91.5729,2021-06-09,Killing/Death,Killing/Death
+25.880654,88.479969,2021-10-23,Killing/Death,Killing/Death
+22.39118,90.318837,2025-07-03,Vandalism,Vandalism
+22.538617,91.067906,2022-09-08,Killing/Death,Killing/Death
+24.744192,91.764031,2023-05-01,Vandalism,Vandalism
+20.779238,90.351927,2024-01-16,Property Damage,Property Damage
+23.575856,91.261885,2024-08-03,Forceful Migration,Forceful Migration
+22.188856,90.652365,2020-01-26,Physical Harrasement,Physical Harrasement
+23.365939,88.800139,2023-05-06,Forceful Migration,Forceful Migration
+23.852493,92.162962,2023-06-25,Vandalism,Vandalism
+25.359921,90.50395,2021-06-22,Forceful Migration,Forceful Migration
+24.413772,88.901841,2023-04-11,Property Damage,Property Damage
+20.805042,90.372773,2022-05-25,Property Damage,Property Damage
+22.614731,92.061315,2022-02-08,Killing/Death,Killing/Death
+23.934802,90.004261,2023-11-02,Property Damage,Property Damage
+25.603365,90.115552,2023-01-19,Vandalism,Vandalism
+25.120267,89.308188,2020-08-24,Vandalism,Vandalism
+24.851446,88.136891,2021-06-24,Killing/Death,Killing/Death
+25.123416,91.31207,2024-10-31,Physical Harrasement,Physical Harrasement
+20.679382,89.45313,2025-11-02,Forceful Migration,Forceful Migration
+24.314991,91.083491,2022-10-27,Forceful Migration,Forceful Migration
+21.69986,89.740997,2025-04-28,Forceful Migration,Forceful Migration
+25.190927,92.263286,2023-02-16,Killing/Death,Killing/Death
+26.388479,91.210424,2025-05-21,Forceful Migration,Forceful Migration
+21.994939,92.60051,2023-12-18,Killing/Death,Killing/Death
+26.093554,89.998506,2023-10-29,Property Damage,Property Damage
+22.117065,88.183856,2022-01-29,Temple Destruction,Temple Destruction
+22.178912,90.133023,2024-07-03,Temple Destruction,Temple Destruction
+20.921112,90.629484,2022-06-21,Temple Destruction,Temple Destruction
+23.91002,90.736055,2024-12-27,Temple Destruction,Temple Destruction
+23.60508,88.58405,2020-12-13,Physical Harrasement,Physical Harrasement
+24.302682,88.600533,2021-03-12,Temple Destruction,Temple Destruction
+21.548258,92.346063,2024-01-28,Vandalism,Vandalism
+20.822796,92.197097,2024-07-25,Killing/Death,Killing/Death
+21.174587,90.425933,2022-10-20,Temple Destruction,Temple Destruction
+23.262047,91.87849,2024-10-17,Vandalism,Vandalism
+22.515016,90.14095,2025-04-17,Physical Harrasement,Physical Harrasement
+24.392127,90.020763,2021-04-02,Killing/Death,Killing/Death
+26.036375,91.132887,2020-08-12,Property Damage,Property Damage
+24.984441,90.817865,2020-01-12,Temple Destruction,Temple Destruction
+23.955812,89.046317,2024-06-24,Vandalism,Vandalism
+22.400065,92.582052,2020-07-02,Forceful Migration,Forceful Migration
+25.353438,88.082151,2024-06-12,Killing/Death,Killing/Death
+20.800346,89.519899,2024-09-29,Temple Destruction,Temple Destruction
+26.471696,90.209226,2025-04-25,Vandalism,Vandalism
+22.07039,92.644126,2023-06-17,Physical Harrasement,Physical Harrasement
+20.795285,88.963121,2022-03-09,Killing/Death,Killing/Death
+23.435034,90.684883,2022-11-10,Forceful Migration,Forceful Migration
+23.570042,89.348582,2022-01-25,Killing/Death,Killing/Death
+23.805304,90.135507,2022-01-31,Forceful Migration,Forceful Migration
+25.153223,92.523598,2025-02-18,Vandalism,Vandalism
+20.620166,88.972694,2023-11-24,Physical Harrasement,Physical Harrasement
+24.825225,91.413787,2023-08-26,Forceful Migration,Forceful Migration
+25.456006,91.936236,2020-06-20,Temple Destruction,Temple Destruction
+20.827152,88.759199,2024-10-23,Killing/Death,Killing/Death
+25.828795,91.490383,2024-05-19,Killing/Death,Killing/Death
+22.858694,91.141541,2020-02-12,Killing/Death,Killing/Death
+24.454739,88.538435,2023-11-10,Physical Harrasement,Physical Harrasement
+23.268487,91.792942,2021-09-21,Temple Destruction,Temple Destruction
+24.144975,91.995468,2025-04-28,Physical Harrasement,Physical Harrasement
+21.05153,92.335692,2023-07-05,Property Damage,Property Damage
+25.758789,90.333791,2025-10-16,Physical Harrasement,Physical Harrasement
+23.13853,91.780513,2023-06-27,Temple Destruction,Temple Destruction
+25.340925,91.779254,2020-09-23,Vandalism,Vandalism
+25.295472,91.743352,2023-12-24,Vandalism,Vandalism
+21.533748,92.221808,2021-09-19,Killing/Death,Killing/Death
+24.785088,91.910448,2022-04-10,Forceful Migration,Forceful Migration
+22.364272,92.416819,2025-03-02,Physical Harrasement,Physical Harrasement
+24.40361,88.947879,2020-09-26,Vandalism,Vandalism
+23.964002,89.41958,2023-04-25,Vandalism,Vandalism
+22.919069,91.061897,2020-09-29,Temple Destruction,Temple Destruction
+26.047358,88.245296,2022-01-07,Vandalism,Vandalism
+21.543707,88.706803,2022-07-27,Physical Harrasement,Physical Harrasement
+21.64344,90.403008,2020-02-05,Forceful Migration,Forceful Migration
+21.053922,89.294112,2023-06-17,Physical Harrasement,Physical Harrasement
+20.943976,91.395628,2022-09-19,Vandalism,Vandalism
+22.440492,88.772095,2020-10-09,Forceful Migration,Forceful Migration
+25.583294,92.388464,2025-07-20,Killing/Death,Killing/Death
+25.827817,88.82361,2024-12-18,Physical Harrasement,Physical Harrasement
+25.178297,89.905365,2024-07-03,Temple Destruction,Temple Destruction
+26.578907,91.608666,2025-10-09,Temple Destruction,Temple Destruction
+24.232747,88.343702,2025-10-18,Temple Destruction,Temple Destruction
+21.060767,88.658464,2022-06-21,Killing/Death,Killing/Death
+25.417563,91.317985,2024-05-18,Physical Harrasement,Physical Harrasement
+24.600979,90.48835,2024-01-02,Forceful Migration,Forceful Migration
+24.727856,88.718137,2022-10-18,Temple Destruction,Temple Destruction
+23.670552,90.002592,2022-04-29,Forceful Migration,Forceful Migration
+24.452785,88.030152,2021-01-19,Forceful Migration,Forceful Migration
+24.535656,91.839222,2023-09-26,Vandalism,Vandalism
+20.764052,92.11678,2024-03-21,Property Damage,Property Damage
+24.936387,89.073219,2022-05-13,Temple Destruction,Temple Destruction
+21.87512,90.025663,2020-06-18,Forceful Migration,Forceful Migration
+21.762314,90.337451,2024-07-01,Forceful Migration,Forceful Migration
+25.878273,90.214532,2023-06-28,Forceful Migration,Forceful Migration
+21.006055,89.010396,2020-05-29,Property Damage,Property Damage
+24.871223,90.726573,2023-04-12,Property Damage,Property Damage
+25.586499,91.06028,2023-05-30,Physical Harrasement,Physical Harrasement
+23.290513,89.900754,2023-11-03,Property Damage,Property Damage
+23.36137,88.557608,2025-04-28,Vandalism,Vandalism
+23.543349,90.463421,2025-11-28,Temple Destruction,Temple Destruction
+23.22034,91.46326,2025-12-03,Physical Harrasement,Physical Harrasement
+24.016391,88.783004,2022-08-18,Property Damage,Property Damage
+21.054877,92.471787,2020-04-11,Physical Harrasement,Physical Harrasement
+24.713673,88.65628,2023-12-13,Forceful Migration,Forceful Migration
+21.469016,92.406314,2025-04-07,Physical Harrasement,Physical Harrasement
+20.72684,88.012378,2024-10-12,Temple Destruction,Temple Destruction
+25.424179,88.510156,2025-11-12,Killing/Death,Killing/Death
+20.791446,88.927503,2025-08-28,Forceful Migration,Forceful Migration
+25.42781,90.039186,2020-10-24,Killing/Death,Killing/Death
+24.984197,88.773848,2025-05-16,Temple Destruction,Temple Destruction
+25.59797,89.330122,2021-05-26,Vandalism,Vandalism
+24.516057,91.781332,2022-02-12,Property Damage,Property Damage
+21.811538,91.778516,2024-10-20,Killing/Death,Killing/Death
+22.052601,88.491344,2024-03-12,Forceful Migration,Forceful Migration
+25.42944,92.489177,2023-04-16,Vandalism,Vandalism
+24.795271,88.200572,2020-09-05,Killing/Death,Killing/Death
+22.356031,89.473955,2025-10-08,Vandalism,Vandalism
+21.42687,88.985278,2024-04-05,Killing/Death,Killing/Death
+24.723683,90.548883,2022-05-12,Temple Destruction,Temple Destruction
+20.876019,89.907834,2024-09-01,Property Damage,Property Damage
+20.866021,91.950392,2025-01-31,Temple Destruction,Temple Destruction
+24.22103,91.583951,2020-12-25,Forceful Migration,Forceful Migration
+23.859009,89.979178,2022-11-20,Forceful Migration,Forceful Migration
+25.74112,90.001643,2025-08-10,Killing/Death,Killing/Death
+21.573605,92.501633,2023-07-04,Property Damage,Property Damage
+21.93025,91.767642,2024-11-22,Temple Destruction,Temple Destruction
+21.075112,88.635235,2025-03-24,Physical Harrasement,Physical Harrasement
+23.437237,90.736622,2020-10-17,Temple Destruction,Temple Destruction
+23.760344,90.754317,2020-09-08,Vandalism,Vandalism
+23.477628,89.462279,2022-05-30,Physical Harrasement,Physical Harrasement
+25.567003,91.439822,2023-09-03,Forceful Migration,Forceful Migration
+25.997971,91.82978,2021-09-07,Temple Destruction,Temple Destruction
+21.652613,89.668183,2025-02-06,Killing/Death,Killing/Death
+24.892533,90.689605,2021-01-29,Physical Harrasement,Physical Harrasement
+22.523157,88.048046,2025-01-06,Vandalism,Vandalism
+23.504613,90.190618,2021-12-11,Forceful Migration,Forceful Migration
+20.919764,89.674677,2023-01-24,Vandalism,Vandalism
+24.680364,90.546209,2025-12-26,Vandalism,Vandalism
+25.392552,90.576538,2025-04-20,Forceful Migration,Forceful Migration
+24.802035,90.186995,2021-09-07,Forceful Migration,Forceful Migration
+25.122959,92.185651,2022-08-28,Physical Harrasement,Physical Harrasement
+25.076455,88.520426,2025-09-15,Physical Harrasement,Physical Harrasement
+21.995779,91.761153,2021-08-19,Forceful Migration,Forceful Migration
+21.718701,92.141903,2025-08-05,Killing/Death,Killing/Death
+20.958121,91.332675,2021-07-22,Physical Harrasement,Physical Harrasement
+26.588261,88.135785,2024-12-26,Vandalism,Vandalism
+22.787715,88.307121,2020-12-31,Property Damage,Property Damage
+25.773926,88.45519,2021-03-31,Killing/Death,Killing/Death
+26.065946,91.325041,2022-01-21,Physical Harrasement,Physical Harrasement
+25.957212,90.298669,2022-01-31,Temple Destruction,Temple Destruction
+25.428328,92.688902,2020-12-19,Temple Destruction,Temple Destruction
+22.542954,89.602493,2021-06-06,Killing/Death,Killing/Death
+22.920669,89.262188,2022-01-27,Property Damage,Property Damage
+26.453619,88.295145,2022-06-11,Vandalism,Vandalism
+24.576374,90.002937,2022-01-27,Physical Harrasement,Physical Harrasement
+26.507514,92.147408,2024-10-19,Physical Harrasement,Physical Harrasement
+20.699942,89.553865,2020-09-23,Killing/Death,Killing/Death
+22.880674,90.522541,2022-11-11,Killing/Death,Killing/Death
+22.964468,90.104836,2024-10-04,Killing/Death,Killing/Death
+25.565565,92.517133,2023-10-25,Vandalism,Vandalism
+23.592469,91.203876,2024-04-07,Property Damage,Property Damage
+21.193121,91.725204,2020-05-13,Vandalism,Vandalism
+21.918593,91.394787,2021-05-16,Physical Harrasement,Physical Harrasement
+22.632385,90.17987,2023-05-31,Forceful Migration,Forceful Migration
+26.380068,88.848222,2025-08-15,Property Damage,Property Damage
+20.910258,89.257585,2021-09-25,Vandalism,Vandalism
+24.460336,90.619421,2023-05-06,Forceful Migration,Forceful Migration
+20.996262,89.679865,2022-03-29,Vandalism,Vandalism
+21.974143,90.748385,2023-06-13,Vandalism,Vandalism
+25.554169,90.711822,2025-01-07,Vandalism,Vandalism
+22.125975,88.411748,2024-11-10,Temple Destruction,Temple Destruction
+22.073015,90.164154,2025-09-07,Vandalism,Vandalism
+22.757607,92.541554,2021-08-20,Property Damage,Property Damage
+24.527396,91.443179,2025-05-01,Property Damage,Property Damage
+24.20545,88.274657,2025-01-25,Killing/Death,Killing/Death
+21.038331,91.881997,2020-10-17,Forceful Migration,Forceful Migration
+26.074406,91.669889,2024-12-15,Vandalism,Vandalism
+25.070504,88.548437,2022-07-29,Killing/Death,Killing/Death
+23.837869,89.66166,2025-09-21,Forceful Migration,Forceful Migration
+26.341606,88.457433,2022-06-13,Property Damage,Property Damage
+21.275781,89.655301,2021-05-11,Forceful Migration,Forceful Migration
+22.257458,88.380818,2021-01-20,Forceful Migration,Forceful Migration
+25.593782,90.764711,2024-06-11,Vandalism,Vandalism
+24.47126,91.98694,2024-02-06,Property Damage,Property Damage
+20.716423,90.041864,2024-06-20,Vandalism,Vandalism
+24.333832,89.793093,2020-07-28,Forceful Migration,Forceful Migration
+25.498711,92.014739,2021-08-20,Physical Harrasement,Physical Harrasement
+20.754147,89.517436,2023-06-13,Physical Harrasement,Physical Harrasement
+22.217121,91.448246,2023-07-08,Killing/Death,Killing/Death
+25.421986,90.259488,2020-08-11,Forceful Migration,Forceful Migration
+21.534495,91.369348,2020-03-11,Temple Destruction,Temple Destruction
+24.920948,89.487402,2023-03-29,Property Damage,Property Damage
+25.366933,90.91,2022-10-07,Temple Destruction,Temple Destruction
+20.972032,92.365899,2024-06-15,Vandalism,Vandalism
+24.576919,88.885535,2021-01-15,Temple Destruction,Temple Destruction
+22.06891,89.193106,2021-12-22,Physical Harrasement,Physical Harrasement
+25.526641,92.375802,2025-03-17,Physical Harrasement,Physical Harrasement
+25.058425,89.432786,2021-11-20,Killing/Death,Killing/Death
+25.419418,88.134879,2021-09-08,Physical Harrasement,Physical Harrasement
+25.95769,89.382644,2025-08-02,Property Damage,Property Damage
+25.816693,91.039085,2024-07-14,Temple Destruction,Temple Destruction
+24.480198,88.321295,2024-11-24,Property Damage,Property Damage
+24.185869,91.84031,2022-07-26,Vandalism,Vandalism
+22.051213,90.142602,2020-07-16,Killing/Death,Killing/Death
+21.543468,89.984489,2023-05-16,Physical Harrasement,Physical Harrasement
+23.861898,88.243277,2022-03-23,Property Damage,Property Damage
+23.674901,88.663711,2023-05-23,Killing/Death,Killing/Death
+21.554714,90.094132,2021-09-26,Temple Destruction,Temple Destruction
+24.794009,88.27257,2025-03-06,Forceful Migration,Forceful Migration
+26.100867,91.2684,2021-01-31,Physical Harrasement,Physical Harrasement
+25.654239,91.766365,2022-09-12,Temple Destruction,Temple Destruction
+26.40167,90.820857,2020-03-09,Temple Destruction,Temple Destruction
+22.746711,89.921205,2024-03-05,Temple Destruction,Temple Destruction
+23.215428,92.440282,2024-04-06,Temple Destruction,Temple Destruction
+24.520087,91.447321,2020-01-21,Property Damage,Property Damage
+21.802553,91.040278,2024-07-28,Vandalism,Vandalism
+22.791167,92.169557,2020-05-03,Killing/Death,Killing/Death
+23.659455,90.60233,2020-09-21,Forceful Migration,Forceful Migration
+21.187615,91.66004,2023-05-02,Physical Harrasement,Physical Harrasement
+20.669169,91.346791,2024-08-30,Property Damage,Property Damage
+21.399736,91.430465,2021-05-18,Temple Destruction,Temple Destruction
+21.86254,89.880822,2020-05-16,Temple Destruction,Temple Destruction
+20.729603,88.897138,2024-01-21,Temple Destruction,Temple Destruction
+21.825185,89.055205,2021-02-07,Temple Destruction,Temple Destruction
+20.799441,91.475206,2021-03-25,Physical Harrasement,Physical Harrasement
+25.649342,91.767261,2023-07-16,Forceful Migration,Forceful Migration
+22.248913,89.89203,2022-06-03,Property Damage,Property Damage
+23.344979,89.345651,2025-11-27,Vandalism,Vandalism
+26.073558,92.141818,2021-03-07,Property Damage,Property Damage
+23.983368,91.890974,2022-07-13,Vandalism,Vandalism
+20.73538,90.129148,2023-07-06,Killing/Death,Killing/Death
+21.345697,88.850683,2024-06-12,Vandalism,Vandalism
+23.172362,89.961883,2024-12-05,Temple Destruction,Temple Destruction
+22.30602,90.291357,2024-01-16,Physical Harrasement,Physical Harrasement
+21.599217,91.589073,2024-05-15,Killing/Death,Killing/Death
+20.624891,91.988965,2021-06-01,Killing/Death,Killing/Death
+24.125516,88.753898,2025-10-29,Forceful Migration,Forceful Migration
+25.814354,90.163403,2023-01-05,Physical Harrasement,Physical Harrasement
+24.818614,89.594773,2023-04-19,Killing/Death,Killing/Death
+26.549907,89.692835,2023-09-27,Killing/Death,Killing/Death
+24.139765,88.806908,2023-11-10,Killing/Death,Killing/Death
+21.476655,92.084062,2022-10-05,Temple Destruction,Temple Destruction
+26.015749,89.279906,2022-12-12,Vandalism,Vandalism
+22.973561,92.647019,2023-02-21,Forceful Migration,Forceful Migration
+24.921977,91.723767,2024-03-05,Physical Harrasement,Physical Harrasement
+20.894486,89.41756,2024-07-01,Killing/Death,Killing/Death
+23.448208,90.862301,2024-02-29,Property Damage,Property Damage
+22.846593,90.307166,2025-01-14,Killing/Death,Killing/Death
+21.269615,90.820605,2023-01-03,Physical Harrasement,Physical Harrasement
+24.144631,90.187861,2022-08-01,Forceful Migration,Forceful Migration
+25.065197,89.754119,2022-07-12,Property Damage,Property Damage
+21.866607,88.660157,2021-10-11,Physical Harrasement,Physical Harrasement
+25.676313,90.131948,2021-12-27,Temple Destruction,Temple Destruction
+21.755268,89.684296,2022-07-02,Temple Destruction,Temple Destruction
+23.68952,89.387462,2021-07-13,Property Damage,Property Damage
+22.455355,90.482874,2022-11-11,Vandalism,Vandalism
+25.511081,89.125313,2025-11-05,Killing/Death,Killing/Death
+23.607679,90.299679,2024-08-27,Property Damage,Property Damage
+22.336566,88.4077,2024-12-25,Temple Destruction,Temple Destruction
+24.356962,90.35827,2024-10-03,Vandalism,Vandalism
+25.785169,89.292512,2023-11-17,Vandalism,Vandalism
+24.52623,91.851224,2020-08-28,Forceful Migration,Forceful Migration
+23.516337,90.360668,2025-10-26,Physical Harrasement,Physical Harrasement
+24.672815,90.75013,2024-06-26,Temple Destruction,Temple Destruction
+20.716152,92.044858,2022-10-30,Vandalism,Vandalism
+21.920046,91.093182,2020-03-20,Temple Destruction,Temple Destruction
+21.10748,90.706892,2024-02-22,Temple Destruction,Temple Destruction
+22.612062,91.509283,2021-04-21,Physical Harrasement,Physical Harrasement
+26.084922,90.748676,2025-06-20,Temple Destruction,Temple Destruction
+24.346619,90.729211,2021-10-30,Temple Destruction,Temple Destruction
+21.77352,89.765217,2024-05-26,Killing/Death,Killing/Death
+24.85364,90.054895,2024-06-27,Property Damage,Property Damage
+21.63941,90.532916,2025-10-03,Forceful Migration,Forceful Migration
+21.352602,88.472164,2025-01-22,Temple Destruction,Temple Destruction
+22.861365,88.276736,2025-08-15,Temple Destruction,Temple Destruction
+21.442851,90.139334,2020-10-01,Temple Destruction,Temple Destruction
+20.724493,90.86117,2022-10-07,Vandalism,Vandalism
+20.741817,91.607516,2025-12-19,Physical Harrasement,Physical Harrasement
+21.357269,89.856206,2023-02-28,Physical Harrasement,Physical Harrasement
+21.206503,88.158166,2022-08-14,Killing/Death,Killing/Death
+22.108959,89.707507,2021-01-05,Forceful Migration,Forceful Migration
+22.663995,92.239356,2025-07-10,Vandalism,Vandalism
+24.115399,90.723752,2021-12-24,Physical Harrasement,Physical Harrasement
+24.833613,91.67895,2022-06-03,Vandalism,Vandalism
+21.039886,90.847313,2025-05-10,Temple Destruction,Temple Destruction
+24.841397,89.541067,2023-04-18,Killing/Death,Killing/Death
+24.195963,91.488652,2023-08-21,Property Damage,Property Damage
+21.210935,92.612103,2023-02-23,Vandalism,Vandalism
+21.716166,90.148394,2023-12-22,Property Damage,Property Damage
+22.311329,92.125802,2024-07-19,Killing/Death,Killing/Death
+23.736317,89.892831,2025-02-28,Physical Harrasement,Physical Harrasement
+22.350477,91.316074,2020-05-20,Forceful Migration,Forceful Migration
+26.215469,92.542644,2023-06-07,Forceful Migration,Forceful Migration
+22.019271,92.655318,2023-06-03,Temple Destruction,Temple Destruction
+25.728905,88.703733,2024-09-18,Temple Destruction,Temple Destruction
+24.254878,89.330995,2021-04-22,Temple Destruction,Temple Destruction
+24.907501,88.762563,2022-06-22,Property Damage,Property Damage
+23.594124,88.435172,2021-03-29,Property Damage,Property Damage
+24.385619,90.481748,2023-11-07,Forceful Migration,Forceful Migration
+22.066242,88.0672,2020-10-25,Temple Destruction,Temple Destruction
+25.544712,90.231438,2021-05-16,Vandalism,Vandalism
+23.12614,92.344702,2020-03-07,Physical Harrasement,Physical Harrasement
+25.78731,88.358953,2020-08-24,Property Damage,Property Damage
+25.31219,89.819062,2025-07-28,Killing/Death,Killing/Death
+24.955228,92.102212,2020-12-28,Property Damage,Property Damage
+20.979868,90.208589,2025-08-15,Physical Harrasement,Physical Harrasement
+26.227278,91.084144,2021-05-11,Temple Destruction,Temple Destruction
+21.04626,88.260178,2020-09-14,Vandalism,Vandalism
+25.961188,90.277752,2025-06-16,Property Damage,Property Damage
+23.802448,90.095131,2023-10-27,Property Damage,Property Damage
+24.04231,90.476283,2025-12-27,Physical Harrasement,Physical Harrasement
+20.833255,90.229165,2021-01-04,Property Damage,Property Damage
+25.671497,92.236265,2022-01-13,Vandalism,Vandalism
+24.020661,88.313283,2022-12-25,Killing/Death,Killing/Death
+23.547671,89.122989,2024-06-22,Forceful Migration,Forceful Migration
+22.30003,91.746872,2021-08-03,Vandalism,Vandalism
+23.529117,91.615696,2021-12-09,Physical Harrasement,Physical Harrasement
+23.217238,92.636008,2025-02-11,Physical Harrasement,Physical Harrasement
+25.513174,89.712419,2021-11-03,Killing/Death,Killing/Death
+21.426721,92.600687,2025-07-28,Property Damage,Property Damage
+24.43175,89.486442,2022-03-07,Killing/Death,Killing/Death
+26.057699,89.075156,2022-03-22,Physical Harrasement,Physical Harrasement
+25.264059,91.752583,2022-03-09,Vandalism,Vandalism
+24.679778,89.925247,2022-06-14,Physical Harrasement,Physical Harrasement
+21.124382,88.227477,2025-06-07,Forceful Migration,Forceful Migration
+24.857523,91.249065,2025-02-09,Vandalism,Vandalism
+25.36542,88.240272,2022-06-19,Forceful Migration,Forceful Migration
+24.818535,88.639778,2024-12-30,Property Damage,Property Damage
+23.640894,91.913874,2022-10-29,Vandalism,Vandalism
+24.554156,88.69851,2023-06-03,Vandalism,Vandalism
+20.814029,88.262895,2025-02-09,Vandalism,Vandalism
+24.522893,90.612195,2022-02-20,Vandalism,Vandalism
+23.380028,88.073157,2025-12-15,Vandalism,Vandalism
+24.686006,92.411129,2024-05-17,Killing/Death,Killing/Death
+23.127476,89.192857,2023-12-22,Physical Harrasement,Physical Harrasement
+20.920896,90.473762,2022-02-15,Property Damage,Property Damage
+21.002278,90.550682,2022-08-11,Forceful Migration,Forceful Migration
+24.245419,89.907672,2023-10-10,Killing/Death,Killing/Death
+22.697929,88.864469,2021-12-14,Physical Harrasement,Physical Harrasement
+23.568548,91.503447,2024-04-27,Property Damage,Property Damage
+22.43739,88.139819,2025-08-31,Forceful Migration,Forceful Migration
+20.848159,91.374824,2024-08-30,Vandalism,Vandalism
+24.520054,88.290276,2023-11-21,Temple Destruction,Temple Destruction
+22.42934,88.748983,2020-12-29,Vandalism,Vandalism
+23.773959,90.795718,2024-12-06,Forceful Migration,Forceful Migration
+24.873731,89.48513,2024-05-01,Vandalism,Vandalism
+26.00393,88.511372,2025-07-02,Temple Destruction,Temple Destruction
+21.575589,89.3261,2021-04-04,Killing/Death,Killing/Death
+22.798754,90.045806,2023-03-26,Property Damage,Property Damage
+25.164825,89.305061,2020-05-04,Temple Destruction,Temple Destruction
+24.297294,90.140443,2023-03-29,Physical Harrasement,Physical Harrasement
+22.912328,92.271825,2025-10-09,Property Damage,Property Damage
+24.817425,91.937868,2022-07-02,Temple Destruction,Temple Destruction
+24.616266,91.898125,2020-05-13,Physical Harrasement,Physical Harrasement
+21.503743,88.732803,2023-01-15,Temple Destruction,Temple Destruction
+25.569084,90.000864,2022-12-08,Physical Harrasement,Physical Harrasement
+21.701979,92.546931,2024-03-27,Physical Harrasement,Physical Harrasement
+21.005666,88.641017,2020-01-25,Property Damage,Property Damage
+24.372826,89.955966,2025-09-18,Killing/Death,Killing/Death
+26.257034,92.115217,2021-09-25,Physical Harrasement,Physical Harrasement
+22.799329,92.494045,2024-12-12,Property Damage,Property Damage
+23.118815,91.23761,2020-05-27,Property Damage,Property Damage
+21.5535,88.843516,2025-12-03,Vandalism,Vandalism
+26.577804,88.799342,2023-01-11,Forceful Migration,Forceful Migration
+21.563259,90.435348,2025-09-01,Vandalism,Vandalism
+22.323356,91.280361,2020-05-09,Killing/Death,Killing/Death
+22.13995,91.912585,2024-08-05,Property Damage,Property Damage
+26.586946,89.914074,2023-04-23,Physical Harrasement,Physical Harrasement
+23.137587,89.220911,2020-05-26,Forceful Migration,Forceful Migration
+24.310695,91.111728,2021-08-21,Killing/Death,Killing/Death
+26.284458,88.338287,2024-02-08,Vandalism,Vandalism
+23.095834,91.78224,2023-11-21,Killing/Death,Killing/Death
+21.082985,91.936131,2023-06-10,Vandalism,Vandalism
+24.452942,89.93669,2020-12-31,Killing/Death,Killing/Death
+23.718324,90.309496,2023-10-29,Forceful Migration,Forceful Migration
+21.648141,91.823235,2023-08-11,Killing/Death,Killing/Death
+24.663222,89.335298,2024-12-22,Physical Harrasement,Physical Harrasement
+26.455035,91.258684,2020-11-30,Forceful Migration,Forceful Migration
+21.229858,92.279618,2024-12-02,Killing/Death,Killing/Death
+22.620701,91.398996,2020-04-13,Forceful Migration,Forceful Migration
+21.49013,88.024334,2022-12-22,Killing/Death,Killing/Death
+23.026252,91.647842,2020-03-07,Forceful Migration,Forceful Migration
+22.400917,90.541872,2025-07-29,Temple Destruction,Temple Destruction
+25.763726,92.38762,2023-09-03,Property Damage,Property Damage
+23.002302,88.938345,2023-05-28,Vandalism,Vandalism
+25.857175,89.7719,2021-11-01,Physical Harrasement,Physical Harrasement
+25.737789,89.474993,2022-08-01,Forceful Migration,Forceful Migration
+25.457091,88.179578,2024-11-14,Physical Harrasement,Physical Harrasement
+22.299158,88.541204,2020-04-05,Killing/Death,Killing/Death
+24.015691,92.088409,2022-08-25,Physical Harrasement,Physical Harrasement
+23.56342,88.769937,2020-02-10,Property Damage,Property Damage
+25.796577,91.138535,2022-03-07,Killing/Death,Killing/Death
+24.087176,88.193716,2020-07-14,Forceful Migration,Forceful Migration
+24.476065,91.234656,2020-01-04,Physical Harrasement,Physical Harrasement
+24.564176,91.00433,2025-03-18,Temple Destruction,Temple Destruction
+26.464981,89.543201,2022-06-12,Killing/Death,Killing/Death
+20.659125,89.767059,2022-10-26,Killing/Death,Killing/Death
+22.131544,89.524237,2025-04-22,Vandalism,Vandalism
+25.797949,91.459504,2023-07-29,Temple Destruction,Temple Destruction
+20.667007,91.26699,2021-11-30,Forceful Migration,Forceful Migration
+22.753427,91.048407,2021-09-03,Temple Destruction,Temple Destruction
+22.715761,90.614087,2020-12-19,Temple Destruction,Temple Destruction
+23.23339,91.702524,2020-09-03,Physical Harrasement,Physical Harrasement
+22.581975,90.388255,2021-04-21,Property Damage,Property Damage
+26.547517,88.05762,2023-12-13,Property Damage,Property Damage
+24.834221,90.58497,2024-04-22,Killing/Death,Killing/Death
+20.611387,89.742433,2021-09-08,Temple Destruction,Temple Destruction
+22.251181,88.84648,2023-01-24,Vandalism,Vandalism
+23.975719,91.167617,2025-08-13,Vandalism,Vandalism
+22.385775,91.292433,2021-08-21,Forceful Migration,Forceful Migration
+21.088849,91.334933,2025-03-20,Temple Destruction,Temple Destruction
+23.905686,91.380626,2025-10-06,Killing/Death,Killing/Death
+21.050321,89.74152,2021-12-05,Killing/Death,Killing/Death
+23.690937,90.452058,2023-05-15,Temple Destruction,Temple Destruction
+22.134451,91.786096,2023-01-14,Vandalism,Vandalism
+21.671657,89.676794,2021-07-02,Killing/Death,Killing/Death
+24.238271,90.522721,2025-10-17,Vandalism,Vandalism
+26.216136,90.748749,2022-09-30,Killing/Death,Killing/Death
+26.109687,91.789655,2022-10-21,Vandalism,Vandalism
+21.349316,88.352096,2024-03-30,Vandalism,Vandalism
+26.502929,89.077681,2023-08-19,Vandalism,Vandalism
+23.930056,91.812178,2023-09-07,Vandalism,Vandalism
+24.63862,88.588072,2023-11-19,Forceful Migration,Forceful Migration
+23.116334,91.365147,2024-07-23,Physical Harrasement,Physical Harrasement
+22.271458,89.906899,2021-05-12,Physical Harrasement,Physical Harrasement
+21.462341,90.399543,2021-01-30,Temple Destruction,Temple Destruction
+22.643935,91.40147,2022-02-21,Forceful Migration,Forceful Migration
+22.02297,88.463979,2022-11-15,Property Damage,Property Damage
+22.802718,90.43373,2022-09-07,Temple Destruction,Temple Destruction
+21.124231,90.677854,2024-08-04,Property Damage,Property Damage
+23.852832,91.436698,2023-07-07,Forceful Migration,Forceful Migration
+23.744853,90.75714,2025-06-07,Property Damage,Property Damage
+21.064076,90.491797,2025-08-26,Temple Destruction,Temple Destruction
+21.518798,89.213906,2025-07-10,Property Damage,Property Damage
+21.833904,91.15035,2024-03-24,Killing/Death,Killing/Death
+25.106539,92.576851,2021-03-13,Vandalism,Vandalism
+24.596575,89.010262,2025-03-05,Vandalism,Vandalism
+26.193085,89.37564,2023-11-19,Physical Harrasement,Physical Harrasement
+20.616394,92.296276,2023-05-31,Property Damage,Property Damage
+25.214127,88.502068,2023-09-04,Forceful Migration,Forceful Migration
+26.329029,92.169158,2021-11-12,Temple Destruction,Temple Destruction
+21.663205,91.720675,2023-04-20,Property Damage,Property Damage
+25.378389,89.762471,2023-01-25,Temple Destruction,Temple Destruction
+24.614759,91.45335,2021-11-14,Temple Destruction,Temple Destruction
+21.690196,91.309727,2020-05-21,Property Damage,Property Damage
+21.038979,91.438392,2021-01-13,Killing/Death,Killing/Death
+24.122109,92.513375,2022-06-19,Physical Harrasement,Physical Harrasement
+25.600189,89.480838,2025-04-16,Property Damage,Property Damage
+24.440718,89.120461,2021-09-07,Killing/Death,Killing/Death
+21.168147,91.020632,2025-10-25,Killing/Death,Killing/Death
+24.940645,92.145912,2025-03-18,Physical Harrasement,Physical Harrasement
+26.066377,92.021741,2021-08-11,Killing/Death,Killing/Death
+21.42931,91.977105,2020-02-23,Temple Destruction,Temple Destruction
+26.347328,92.355378,2021-01-02,Physical Harrasement,Physical Harrasement
+21.204121,91.595193,2020-03-17,Vandalism,Vandalism
+23.518597,91.516873,2022-09-19,Vandalism,Vandalism
+21.999561,92.150717,2025-02-02,Vandalism,Vandalism
+22.69734,92.496118,2022-10-25,Killing/Death,Killing/Death
+23.866115,91.318383,2024-05-12,Physical Harrasement,Physical Harrasement
+24.79414,88.977894,2024-04-29,Temple Destruction,Temple Destruction
+20.640268,88.922463,2021-04-29,Temple Destruction,Temple Destruction
+25.071318,90.853524,2024-04-11,Property Damage,Property Damage
+24.254245,89.782554,2020-12-28,Forceful Migration,Forceful Migration
+22.531294,90.789592,2023-10-17,Property Damage,Property Damage
+21.202401,91.771257,2024-10-06,Physical Harrasement,Physical Harrasement
+22.372981,88.927183,2020-02-29,Vandalism,Vandalism
+26.355099,91.35535,2023-12-23,Killing/Death,Killing/Death
+23.017699,92.027069,2023-06-25,Forceful Migration,Forceful Migration
+22.803662,88.62809,2021-08-25,Forceful Migration,Forceful Migration
+23.750441,88.538899,2021-06-18,Forceful Migration,Forceful Migration
+26.528024,90.240742,2022-10-05,Temple Destruction,Temple Destruction
+24.984306,91.898131,2020-01-17,Physical Harrasement,Physical Harrasement
+22.856149,89.587531,2022-10-22,Vandalism,Vandalism
+22.45087,90.696934,2025-01-07,Physical Harrasement,Physical Harrasement
+22.83952,91.461761,2020-10-19,Vandalism,Vandalism
+22.187187,88.170094,2023-06-23,Vandalism,Vandalism
+20.826495,92.597136,2022-12-11,Vandalism,Vandalism
+24.511712,90.73754,2020-10-22,Forceful Migration,Forceful Migration
+21.691385,88.72701,2023-05-19,Temple Destruction,Temple Destruction
+21.141194,89.837543,2021-10-14,Physical Harrasement,Physical Harrasement
+24.771115,92.296388,2022-10-18,Property Damage,Property Damage
+25.169347,89.704105,2024-03-22,Vandalism,Vandalism
+25.866963,90.269827,2025-11-03,Property Damage,Property Damage
+25.681464,91.311003,2022-05-23,Vandalism,Vandalism
+23.958652,90.680963,2023-08-06,Temple Destruction,Temple Destruction
+22.499805,92.098477,2024-12-23,Vandalism,Vandalism
+22.202646,92.149895,2020-03-16,Physical Harrasement,Physical Harrasement
+25.324133,91.392127,2020-06-19,Temple Destruction,Temple Destruction
+22.849157,88.895119,2025-02-16,Forceful Migration,Forceful Migration
+25.841511,88.978756,2025-05-17,Forceful Migration,Forceful Migration
+21.524463,92.370764,2025-05-20,Vandalism,Vandalism
+24.117718,90.083257,2021-10-01,Physical Harrasement,Physical Harrasement
+25.259119,92.05962,2022-03-06,Physical Harrasement,Physical Harrasement
+24.891952,88.564158,2024-07-27,Physical Harrasement,Physical Harrasement
+25.369004,90.359165,2022-10-09,Temple Destruction,Temple Destruction
+24.450981,88.318997,2021-03-07,Vandalism,Vandalism
+22.430585,89.101927,2020-10-25,Temple Destruction,Temple Destruction
+21.755597,91.825287,2022-05-02,Vandalism,Vandalism
+26.385965,90.349557,2022-04-15,Killing/Death,Killing/Death
+22.958841,90.056741,2025-08-03,Temple Destruction,Temple Destruction
+25.321696,88.675355,2024-05-26,Property Damage,Property Damage
+24.289869,90.561427,2024-03-28,Forceful Migration,Forceful Migration
+21.236778,88.02345,2022-04-18,Temple Destruction,Temple Destruction
+23.852544,90.34745,2023-04-05,Forceful Migration,Forceful Migration
+26.07492,92.515332,2024-02-15,Property Damage,Property Damage
+26.314813,90.02158,2020-09-26,Killing/Death,Killing/Death
+23.977001,88.823318,2020-10-13,Temple Destruction,Temple Destruction
+24.759554,90.104507,2022-06-09,Killing/Death,Killing/Death
+22.255182,92.064095,2024-11-21,Killing/Death,Killing/Death
+26.414813,89.274739,2025-11-04,Property Damage,Property Damage
+23.731326,91.476203,2021-10-19,Vandalism,Vandalism
+20.832016,92.248738,2024-04-02,Forceful Migration,Forceful Migration
+26.510942,89.1505,2021-11-22,Forceful Migration,Forceful Migration
+26.526875,90.412725,2023-06-12,Vandalism,Vandalism
+26.521955,91.016834,2024-07-02,Forceful Migration,Forceful Migration
+26.467522,89.592061,2023-04-29,Temple Destruction,Temple Destruction
+24.612645,92.496652,2021-08-19,Vandalism,Vandalism
+23.26226,92.698327,2023-06-09,Physical Harrasement,Physical Harrasement
+24.225207,88.346364,2022-09-19,Property Damage,Property Damage
+26.094081,91.261858,2020-11-08,Temple Destruction,Temple Destruction
+26.004567,91.016475,2025-08-13,Temple Destruction,Temple Destruction
+22.611685,90.489117,2025-03-24,Temple Destruction,Temple Destruction
+24.226947,88.307499,2021-03-30,Physical Harrasement,Physical Harrasement
+25.33987,91.631856,2022-08-23,Killing/Death,Killing/Death
+24.136672,89.564085,2020-09-14,Temple Destruction,Temple Destruction
+22.888414,91.72525,2025-01-07,Physical Harrasement,Physical Harrasement
+21.356919,90.764321,2021-01-09,Forceful Migration,Forceful Migration
+25.722854,90.139654,2024-09-29,Forceful Migration,Forceful Migration
+23.318992,90.638082,2021-03-27,Temple Destruction,Temple Destruction
+20.954527,92.146805,2022-03-13,Forceful Migration,Forceful Migration
+22.367412,89.189477,2021-01-03,Property Damage,Property Damage
+21.235297,90.887532,2025-05-05,Forceful Migration,Forceful Migration
+23.0588,89.219198,2020-06-15,Temple Destruction,Temple Destruction
+22.325064,91.133565,2025-02-11,Property Damage,Property Damage
+25.437303,91.688234,2024-07-19,Physical Harrasement,Physical Harrasement
+20.715442,89.07264,2024-07-31,Property Damage,Property Damage
+24.795452,91.465541,2025-11-21,Physical Harrasement,Physical Harrasement
+23.081769,91.985493,2020-11-22,Forceful Migration,Forceful Migration
+22.8685,90.166271,2025-07-27,Killing/Death,Killing/Death
+25.440838,88.46831,2025-04-30,Forceful Migration,Forceful Migration
+22.551743,90.960297,2020-12-29,Temple Destruction,Temple Destruction
+24.885965,91.742983,2023-11-22,Forceful Migration,Forceful Migration
+22.855715,88.396702,2022-10-18,Temple Destruction,Temple Destruction
+25.027978,92.419005,2023-04-21,Temple Destruction,Temple Destruction
+20.994367,91.445901,2020-09-15,Forceful Migration,Forceful Migration
+21.921543,88.419888,2022-08-13,Property Damage,Property Damage
+23.218331,89.720317,2025-07-21,Forceful Migration,Forceful Migration
+21.487917,88.11926,2020-10-10,Temple Destruction,Temple Destruction
+23.395163,92.021679,2021-05-16,Physical Harrasement,Physical Harrasement
+21.271746,89.490602,2024-12-23,Temple Destruction,Temple Destruction
+24.242186,89.821426,2022-01-17,Physical Harrasement,Physical Harrasement
+23.758826,91.687995,2020-09-25,Killing/Death,Killing/Death
+21.638324,89.209627,2025-10-09,Temple Destruction,Temple Destruction
+24.387021,92.68283,2024-03-16,Temple Destruction,Temple Destruction
+25.703419,90.358862,2024-06-17,Vandalism,Vandalism
+21.257758,92.291103,2023-02-16,Vandalism,Vandalism
+21.093613,88.115395,2022-12-07,Physical Harrasement,Physical Harrasement
+23.226708,88.343739,2023-05-27,Forceful Migration,Forceful Migration
+25.264968,91.628171,2021-08-08,Vandalism,Vandalism
+22.44951,89.904124,2025-07-03,Temple Destruction,Temple Destruction
+23.620823,89.297191,2024-12-09,Killing/Death,Killing/Death
+22.028418,92.271171,2021-08-14,Physical Harrasement,Physical Harrasement
+22.689379,90.548872,2023-08-05,Temple Destruction,Temple Destruction
+22.022884,92.126728,2022-01-20,Temple Destruction,Temple Destruction
+23.026454,91.311663,2022-11-19,Killing/Death,Killing/Death
+22.041882,88.098095,2022-05-06,Temple Destruction,Temple Destruction
+21.31254,88.825901,2025-08-22,Forceful Migration,Forceful Migration
+21.997783,91.883686,2022-10-21,Temple Destruction,Temple Destruction
+21.219658,89.721984,2021-10-13,Property Damage,Property Damage
+21.449875,88.266492,2024-09-16,Property Damage,Property Damage
+22.297872,90.734223,2024-08-31,Vandalism,Vandalism
+26.160702,90.03483,2025-12-13,Property Damage,Property Damage
+25.516024,90.32655,2023-01-12,Property Damage,Property Damage
+24.965431,91.1225,2020-08-02,Physical Harrasement,Physical Harrasement
+26.093423,88.065372,2024-03-19,Temple Destruction,Temple Destruction
+23.862043,88.89645,2025-10-07,Killing/Death,Killing/Death
+26.548183,88.596528,2021-07-16,Killing/Death,Killing/Death
+20.756214,91.774484,2021-05-31,Forceful Migration,Forceful Migration
+23.194294,89.358335,2024-02-12,Property Damage,Property Damage
+24.832769,89.875708,2020-09-05,Temple Destruction,Temple Destruction
+24.459554,90.262119,2025-04-25,Temple Destruction,Temple Destruction
+24.89606,88.508338,2025-04-05,Killing/Death,Killing/Death
+25.256856,91.494167,2024-08-19,Killing/Death,Killing/Death
+21.615252,91.668537,2022-03-27,Killing/Death,Killing/Death
+21.987871,90.64895,2022-08-16,Physical Harrasement,Physical Harrasement
+22.610651,88.657769,2025-07-05,Physical Harrasement,Physical Harrasement
+26.338469,90.511727,2025-05-21,Vandalism,Vandalism
+25.696836,91.357291,2021-04-25,Vandalism,Vandalism
+26.196884,90.351087,2025-02-16,Forceful Migration,Forceful Migration
+21.714875,91.558453,2023-04-07,Temple Destruction,Temple Destruction
+23.674296,88.173372,2023-10-27,Vandalism,Vandalism
+23.478568,90.02214,2022-04-11,Killing/Death,Killing/Death
+21.419625,90.96272,2024-03-18,Killing/Death,Killing/Death
+22.20672,92.320167,2023-06-15,Property Damage,Property Damage
+26.463678,91.341299,2025-12-09,Forceful Migration,Forceful Migration
+22.99471,88.526072,2024-02-25,Physical Harrasement,Physical Harrasement
+25.167169,88.841227,2022-05-14,Vandalism,Vandalism
+23.209545,92.26062,2021-06-13,Property Damage,Property Damage
+21.672321,88.684966,2025-03-18,Forceful Migration,Forceful Migration
+21.767974,89.013986,2023-01-17,Forceful Migration,Forceful Migration
+26.287868,89.25345,2023-03-07,Vandalism,Vandalism
+25.031266,90.041635,2022-12-25,Temple Destruction,Temple Destruction
+25.3159,88.411764,2022-02-10,Killing/Death,Killing/Death
+21.308545,89.368867,2024-03-26,Physical Harrasement,Physical Harrasement
+23.587443,90.163667,2022-07-22,Physical Harrasement,Physical Harrasement
+20.995225,88.487157,2024-12-28,Vandalism,Vandalism
+25.909505,90.46304,2025-09-07,Vandalism,Vandalism
+26.31923,91.983449,2021-05-03,Vandalism,Vandalism
+23.697193,91.679505,2025-05-02,Temple Destruction,Temple Destruction
+26.503288,88.702018,2023-02-07,Physical Harrasement,Physical Harrasement
+23.357078,91.255023,2025-12-09,Property Damage,Property Damage
+25.082637,91.758559,2025-02-06,Forceful Migration,Forceful Migration
+26.009993,90.449225,2025-12-14,Physical Harrasement,Physical Harrasement
+26.28431,90.571,2021-04-16,Forceful Migration,Forceful Migration
+24.859343,89.08395,2025-09-13,Temple Destruction,Temple Destruction
+25.085517,89.055595,2024-10-17,Killing/Death,Killing/Death
+24.088504,89.012112,2020-03-20,Forceful Migration,Forceful Migration
+25.167648,90.796253,2021-02-24,Temple Destruction,Temple Destruction
+24.296889,89.139108,2022-05-29,Temple Destruction,Temple Destruction
+23.230688,91.693933,2020-10-16,Property Damage,Property Damage
+25.080315,89.008355,2024-08-12,Killing/Death,Killing/Death
+21.034488,90.884315,2025-10-21,Temple Destruction,Temple Destruction
+22.94054,90.878646,2023-10-14,Vandalism,Vandalism
+24.706302,91.213339,2025-03-27,Forceful Migration,Forceful Migration
+25.805752,90.462041,2023-02-08,Forceful Migration,Forceful Migration
+20.642347,89.939275,2021-09-06,Vandalism,Vandalism
+24.420073,88.138069,2021-05-19,Temple Destruction,Temple Destruction
+25.425426,91.272091,2023-05-12,Temple Destruction,Temple Destruction
+24.472399,90.971384,2024-01-13,Forceful Migration,Forceful Migration
+24.383633,90.040568,2025-02-08,Property Damage,Property Damage
+21.682245,88.748834,2023-09-20,Forceful Migration,Forceful Migration
+24.579561,92.091241,2025-06-16,Temple Destruction,Temple Destruction
+25.144619,88.171101,2021-02-15,Temple Destruction,Temple Destruction
+20.600859,90.071574,2021-04-21,Temple Destruction,Temple Destruction
+22.055213,89.770998,2023-10-30,Vandalism,Vandalism
+24.755053,88.019476,2022-02-11,Physical Harrasement,Physical Harrasement
+21.521676,90.422636,2024-04-05,Property Damage,Property Damage
+23.096355,88.247305,2024-09-17,Temple Destruction,Temple Destruction
+21.464865,88.901386,2025-11-04,Temple Destruction,Temple Destruction
+22.967455,88.279418,2024-05-29,Killing/Death,Killing/Death
+26.42053,88.282712,2024-10-26,Property Damage,Property Damage
+24.281067,91.956683,2024-07-04,Killing/Death,Killing/Death
+23.53596,90.672462,2024-11-26,Physical Harrasement,Physical Harrasement
+21.214394,91.182867,2021-05-14,Physical Harrasement,Physical Harrasement
+21.74577,92.67341,2023-01-07,Vandalism,Vandalism
+21.385008,91.060231,2023-02-10,Forceful Migration,Forceful Migration
+22.049717,88.317682,2022-05-08,Vandalism,Vandalism
+26.560587,88.38117,2025-11-11,Forceful Migration,Forceful Migration
+23.442818,91.593825,2024-10-29,Forceful Migration,Forceful Migration
+21.576751,92.166573,2023-05-08,Property Damage,Property Damage
+21.378653,89.827539,2020-05-18,Killing/Death,Killing/Death
+26.301404,91.614417,2025-05-23,Temple Destruction,Temple Destruction
+21.34268,92.665641,2024-06-08,Physical Harrasement,Physical Harrasement
+21.348346,91.192446,2022-04-17,Vandalism,Vandalism
+22.020466,89.817842,2023-08-24,Physical Harrasement,Physical Harrasement
+25.396901,89.855032,2020-04-08,Killing/Death,Killing/Death
+22.648421,89.215448,2025-08-18,Property Damage,Property Damage
+20.971407,88.633836,2025-11-04,Forceful Migration,Forceful Migration
+26.178659,91.336281,2022-12-14,Killing/Death,Killing/Death
+24.560266,91.046565,2024-03-20,Property Damage,Property Damage
+25.468155,91.994865,2024-10-04,Killing/Death,Killing/Death
+24.667963,88.913505,2021-08-06,Property Damage,Property Damage
+22.421974,90.453444,2020-06-07,Killing/Death,Killing/Death
+22.223476,88.467331,2022-09-13,Property Damage,Property Damage
+23.052149,88.241915,2025-08-06,Physical Harrasement,Physical Harrasement
+21.140699,91.062787,2023-10-16,Forceful Migration,Forceful Migration
+20.815757,90.815831,2021-02-19,Temple Destruction,Temple Destruction
+24.594014,92.419697,2022-11-16,Property Damage,Property Damage
+22.612795,90.665872,2020-11-14,Killing/Death,Killing/Death
+25.137154,91.855162,2020-03-07,Vandalism,Vandalism
+20.98254,91.164205,2024-10-19,Forceful Migration,Forceful Migration
+24.021776,91.530368,2022-10-05,Forceful Migration,Forceful Migration
+26.258962,91.180226,2024-03-04,Forceful Migration,Forceful Migration
+26.372109,91.413706,2024-10-14,Physical Harrasement,Physical Harrasement
+24.558047,88.963414,2022-12-15,Temple Destruction,Temple Destruction
+26.088922,90.608886,2020-09-30,Temple Destruction,Temple Destruction
+21.486232,89.618971,2025-10-03,Forceful Migration,Forceful Migration
+24.754016,88.270306,2022-02-16,Forceful Migration,Forceful Migration
+22.048427,92.456465,2024-10-25,Property Damage,Property Damage
+25.819123,89.075912,2021-10-05,Forceful Migration,Forceful Migration
+23.384399,89.854332,2023-06-21,Killing/Death,Killing/Death
+25.519928,90.929648,2021-11-22,Forceful Migration,Forceful Migration
+25.334146,89.401295,2025-10-13,Forceful Migration,Forceful Migration
+21.373302,88.001458,2020-08-22,Vandalism,Vandalism
+25.529823,91.144561,2024-05-31,Temple Destruction,Temple Destruction
+24.775722,92.437499,2023-01-27,Killing/Death,Killing/Death
+26.302629,89.390653,2021-01-16,Physical Harrasement,Physical Harrasement
+25.852162,88.902585,2024-06-06,Property Damage,Property Damage
+23.482082,92.471261,2023-05-17,Killing/Death,Killing/Death
+21.43244,88.788231,2022-09-14,Killing/Death,Killing/Death
+25.735626,92.61243,2023-12-08,Killing/Death,Killing/Death
+23.660942,89.485986,2025-06-02,Killing/Death,Killing/Death
+22.506762,88.836409,2023-12-12,Vandalism,Vandalism
+24.179827,89.548316,2024-05-21,Temple Destruction,Temple Destruction
+22.342379,91.831099,2020-03-11,Vandalism,Vandalism
+22.357655,91.024265,2024-04-06,Property Damage,Property Damage
+24.284286,89.642121,2025-08-27,Killing/Death,Killing/Death
+22.897251,89.32339,2020-02-25,Killing/Death,Killing/Death
+26.594767,89.016274,2020-10-11,Temple Destruction,Temple Destruction
+25.445573,91.647318,2020-04-21,Forceful Migration,Forceful Migration
+24.890595,88.042262,2024-10-02,Temple Destruction,Temple Destruction
+24.032736,88.37425,2024-11-20,Physical Harrasement,Physical Harrasement
+24.707104,91.290288,2020-11-02,Vandalism,Vandalism
+22.746694,88.041168,2022-06-15,Forceful Migration,Forceful Migration
+25.082236,88.443322,2022-03-19,Killing/Death,Killing/Death
+21.553161,88.798014,2020-12-20,Temple Destruction,Temple Destruction
+25.652679,89.818107,2021-11-09,Physical Harrasement,Physical Harrasement
+26.447336,90.002466,2021-01-03,Property Damage,Property Damage
+24.355266,88.186849,2020-08-24,Temple Destruction,Temple Destruction
+23.800167,89.254716,2020-07-26,Physical Harrasement,Physical Harrasement
+23.675882,91.25378,2025-05-14,Forceful Migration,Forceful Migration
+23.026983,90.409788,2025-01-22,Forceful Migration,Forceful Migration
+22.283714,92.224599,2021-10-09,Temple Destruction,Temple Destruction
+25.078378,90.128391,2022-09-18,Vandalism,Vandalism
+23.14778,89.918127,2022-12-26,Property Damage,Property Damage
+22.693534,92.365439,2024-02-04,Physical Harrasement,Physical Harrasement
+23.27785,88.969131,2020-06-25,Physical Harrasement,Physical Harrasement
+25.523875,89.437455,2024-07-04,Vandalism,Vandalism
+23.740081,89.582246,2024-12-11,Forceful Migration,Forceful Migration
+22.096123,89.574623,2025-04-21,Vandalism,Vandalism
+21.335243,92.114744,2025-06-14,Forceful Migration,Forceful Migration
+25.347405,89.81334,2023-01-13,Forceful Migration,Forceful Migration
+26.44166,92.037364,2025-01-21,Killing/Death,Killing/Death
+25.171346,91.721482,2020-12-03,Vandalism,Vandalism
+23.5882,89.021827,2022-12-06,Killing/Death,Killing/Death
+25.029132,92.445663,2024-07-13,Killing/Death,Killing/Death
+21.722682,90.047133,2021-01-28,Temple Destruction,Temple Destruction
+24.249878,88.872615,2024-09-07,Property Damage,Property Damage
+24.558219,91.591469,2021-09-18,Forceful Migration,Forceful Migration
+23.940604,89.684796,2020-07-24,Physical Harrasement,Physical Harrasement
+26.380705,89.168169,2021-06-03,Property Damage,Property Damage
+24.358999,89.978752,2024-03-28,Killing/Death,Killing/Death
+21.405923,88.894614,2020-12-18,Forceful Migration,Forceful Migration
+25.656009,89.709202,2020-09-15,Temple Destruction,Temple Destruction
+24.041213,91.126855,2021-03-24,Temple Destruction,Temple Destruction
+22.155964,90.938898,2024-04-20,Physical Harrasement,Physical Harrasement
+26.387325,90.525071,2020-11-22,Forceful Migration,Forceful Migration
+22.601993,91.069008,2021-02-15,Physical Harrasement,Physical Harrasement
+21.133062,92.224102,2023-05-09,Property Damage,Property Damage
+25.442084,92.676908,2024-02-19,Temple Destruction,Temple Destruction
+22.200909,88.883516,2020-03-18,Property Damage,Property Damage
+25.289029,90.180728,2024-02-18,Physical Harrasement,Physical Harrasement
+25.846425,89.605665,2020-08-22,Temple Destruction,Temple Destruction
+24.04557,92.660055,2024-12-30,Physical Harrasement,Physical Harrasement
+22.114435,89.470387,2024-02-02,Forceful Migration,Forceful Migration
+25.83791,89.700922,2022-03-16,Killing/Death,Killing/Death
+24.326325,90.207121,2022-10-31,Forceful Migration,Forceful Migration
+24.49292,89.320497,2024-10-24,Temple Destruction,Temple Destruction
+25.871509,88.717162,2023-09-28,Killing/Death,Killing/Death
+22.433644,91.121738,2020-08-02,Temple Destruction,Temple Destruction
+23.629584,89.447216,2023-09-16,Property Damage,Property Damage
+26.425367,90.032767,2021-02-21,Killing/Death,Killing/Death
+24.405474,91.252543,2020-06-11,Physical Harrasement,Physical Harrasement
+22.165017,90.318778,2023-10-04,Forceful Migration,Forceful Migration
+24.173287,88.965637,2024-12-10,Physical Harrasement,Physical Harrasement
+22.217289,91.14677,2023-12-25,Forceful Migration,Forceful Migration
+24.31891,89.49134,2025-05-20,Forceful Migration,Forceful Migration
+26.035659,89.359329,2020-02-14,Vandalism,Vandalism
+24.41006,88.316822,2025-03-14,Property Damage,Property Damage
+22.409832,89.885872,2020-09-16,Vandalism,Vandalism
+21.081249,92.430056,2020-01-18,Killing/Death,Killing/Death
+22.735594,91.88028,2024-10-22,Forceful Migration,Forceful Migration
+22.800555,89.551645,2023-07-20,Vandalism,Vandalism
+25.219431,91.704483,2023-04-27,Physical Harrasement,Physical Harrasement
+23.639057,91.754985,2021-03-04,Property Damage,Property Damage
+23.388149,88.839814,2024-01-11,Vandalism,Vandalism
+25.185142,88.865343,2022-04-09,Forceful Migration,Forceful Migration
+23.82214,89.116464,2021-02-02,Temple Destruction,Temple Destruction
+23.586281,91.92946,2025-02-11,Vandalism,Vandalism
+22.577386,88.246671,2023-12-08,Property Damage,Property Damage
+23.919637,89.553012,2020-05-09,Killing/Death,Killing/Death
+22.696153,90.383322,2023-03-30,Forceful Migration,Forceful Migration
+26.445378,88.231529,2020-07-03,Property Damage,Property Damage
+21.721156,91.047264,2025-10-01,Vandalism,Vandalism
+25.539854,89.90173,2020-05-15,Temple Destruction,Temple Destruction
+22.903147,88.323671,2022-07-10,Forceful Migration,Forceful Migration
+21.44126,89.794824,2023-10-24,Temple Destruction,Temple Destruction
+22.786103,89.201349,2022-06-06,Vandalism,Vandalism
+24.089284,91.078139,2025-04-18,Forceful Migration,Forceful Migration
+21.495301,92.590541,2020-07-05,Property Damage,Property Damage
+21.328487,92.098427,2022-09-29,Vandalism,Vandalism
+21.521989,88.591027,2021-06-27,Vandalism,Vandalism
+25.067901,90.470753,2020-03-21,Temple Destruction,Temple Destruction
+23.198843,91.991424,2024-07-03,Physical Harrasement,Physical Harrasement
+23.827134,92.353329,2020-04-10,Vandalism,Vandalism
+24.677335,89.437568,2022-11-18,Temple Destruction,Temple Destruction
+25.457887,92.183399,2020-12-14,Vandalism,Vandalism
+23.951028,91.128311,2024-08-30,Physical Harrasement,Physical Harrasement
+21.119736,89.036155,2023-02-12,Property Damage,Property Damage
+24.878034,91.950243,2024-03-01,Vandalism,Vandalism
+26.075964,90.086712,2022-01-09,Vandalism,Vandalism
+22.140859,91.694617,2021-04-19,Forceful Migration,Forceful Migration
+25.284035,88.833401,2021-09-11,Vandalism,Vandalism
+23.241532,88.454978,2021-04-06,Killing/Death,Killing/Death
+24.940561,90.696849,2020-02-07,Temple Destruction,Temple Destruction
+20.678564,90.169876,2021-02-08,Temple Destruction,Temple Destruction
+25.879535,91.69042,2020-04-27,Vandalism,Vandalism
+20.919959,88.745092,2021-10-19,Killing/Death,Killing/Death
+24.316588,91.226944,2024-06-17,Temple Destruction,Temple Destruction
+23.570683,91.604134,2023-11-01,Physical Harrasement,Physical Harrasement
+26.493523,89.530407,2022-08-27,Physical Harrasement,Physical Harrasement
+26.10679,90.714632,2022-05-08,Killing/Death,Killing/Death
+21.208111,91.303521,2022-08-29,Forceful Migration,Forceful Migration
+21.216658,88.289933,2025-02-16,Killing/Death,Killing/Death
+24.884303,89.745784,2022-08-20,Property Damage,Property Damage
+23.636647,89.434114,2020-08-27,Killing/Death,Killing/Death
+21.064547,92.548226,2022-07-31,Forceful Migration,Forceful Migration
+21.664367,88.770582,2022-12-25,Temple Destruction,Temple Destruction
+21.236165,91.201063,2022-05-04,Property Damage,Property Damage
+22.169502,91.821907,2025-11-16,Property Damage,Property Damage
+24.046732,88.653231,2025-09-17,Physical Harrasement,Physical Harrasement
+24.610633,90.969136,2021-07-18,Vandalism,Vandalism
+24.811405,89.26318,2021-10-30,Property Damage,Property Damage
+21.551016,89.739284,2024-05-04,Temple Destruction,Temple Destruction
+23.063455,90.596503,2020-01-24,Killing/Death,Killing/Death
+21.674077,88.379186,2023-01-02,Physical Harrasement,Physical Harrasement
+25.782111,90.445225,2024-02-28,Property Damage,Property Damage
+21.902376,88.871011,2024-05-09,Vandalism,Vandalism
+23.136663,90.108101,2020-06-16,Vandalism,Vandalism
+25.63817,91.895938,2025-08-27,Property Damage,Property Damage
+26.207034,88.049581,2022-11-28,Forceful Migration,Forceful Migration
+23.735924,88.762051,2020-07-27,Property Damage,Property Damage
+25.373825,91.453848,2022-07-06,Vandalism,Vandalism
+22.537511,91.959723,2025-03-20,Temple Destruction,Temple Destruction
+21.90809,92.355603,2020-02-24,Vandalism,Vandalism
+25.761243,91.120041,2022-12-06,Killing/Death,Killing/Death
+23.744526,92.330206,2021-05-02,Killing/Death,Killing/Death
+24.017869,88.124272,2024-07-14,Property Damage,Property Damage
+21.452448,89.706555,2025-04-14,Forceful Migration,Forceful Migration
+23.025448,88.857461,2021-07-05,Killing/Death,Killing/Death
+21.786792,91.835665,2020-06-20,Forceful Migration,Forceful Migration
+24.036627,89.635686,2023-04-18,Forceful Migration,Forceful Migration
+22.436551,90.020598,2020-12-27,Forceful Migration,Forceful Migration
+22.219899,91.400694,2022-01-31,Killing/Death,Killing/Death
+21.857621,89.377785,2022-07-03,Vandalism,Vandalism
+23.076282,92.596118,2025-10-15,Property Damage,Property Damage
+23.1124,89.825735,2023-05-10,Vandalism,Vandalism
+24.502363,89.632266,2025-02-20,Killing/Death,Killing/Death
+21.62575,88.625645,2024-05-17,Killing/Death,Killing/Death
+20.931014,90.997056,2021-05-22,Vandalism,Vandalism
+24.032343,89.975265,2025-10-23,Temple Destruction,Temple Destruction
+25.492406,90.127918,2022-12-26,Forceful Migration,Forceful Migration
+22.123502,91.111946,2022-11-20,Property Damage,Property Damage
+22.499593,88.755046,2023-01-04,Vandalism,Vandalism
+24.472844,89.591334,2022-12-13,Vandalism,Vandalism
+21.193777,90.94324,2022-07-08,Temple Destruction,Temple Destruction
+24.001018,92.692606,2020-01-06,Physical Harrasement,Physical Harrasement
+22.931908,92.313074,2025-07-16,Physical Harrasement,Physical Harrasement
+22.322148,91.015448,2022-09-03,Temple Destruction,Temple Destruction
+21.750686,90.680111,2021-09-26,Forceful Migration,Forceful Migration
+20.86576,91.344432,2022-09-30,Physical Harrasement,Physical Harrasement
+22.66911,89.25322,2023-06-10,Killing/Death,Killing/Death
+23.881021,88.141688,2020-09-26,Physical Harrasement,Physical Harrasement
+22.69368,90.434641,2020-06-10,Vandalism,Vandalism
+23.762142,90.05658,2021-12-31,Property Damage,Property Damage
+24.438434,91.106042,2021-04-02,Killing/Death,Killing/Death
+22.440427,88.558099,2024-08-20,Physical Harrasement,Physical Harrasement
+26.568239,90.067852,2024-12-16,Property Damage,Property Damage
+23.905121,90.200739,2023-03-01,Temple Destruction,Temple Destruction
+25.786963,92.559285,2023-08-27,Temple Destruction,Temple Destruction
+22.678603,91.587937,2024-12-29,Killing/Death,Killing/Death
+25.183091,90.3987,2023-06-21,Property Damage,Property Damage
+25.426589,89.134592,2025-01-04,Forceful Migration,Forceful Migration
+21.930711,90.825552,2023-04-04,Property Damage,Property Damage
+22.797286,91.317992,2025-10-29,Property Damage,Property Damage
+22.669399,88.299341,2021-09-10,Vandalism,Vandalism
+26.195698,92.31332,2024-12-27,Forceful Migration,Forceful Migration
+23.730725,92.422333,2024-04-16,Temple Destruction,Temple Destruction
+23.80741,91.426763,2021-02-27,Temple Destruction,Temple Destruction
+23.890011,88.948244,2022-12-11,Property Damage,Property Damage
+25.673185,89.84735,2021-04-02,Vandalism,Vandalism
+26.248699,91.005345,2020-05-12,Vandalism,Vandalism
+23.621175,92.248982,2025-09-20,Killing/Death,Killing/Death
+24.237437,90.68568,2021-01-24,Killing/Death,Killing/Death
+26.519835,92.232467,2024-08-05,Killing/Death,Killing/Death
+22.140037,92.501466,2022-08-21,Vandalism,Vandalism
+26.086058,92.69473,2025-12-15,Temple Destruction,Temple Destruction
+25.435904,90.831017,2022-08-17,Vandalism,Vandalism
+23.202073,91.449942,2022-05-09,Forceful Migration,Forceful Migration
+25.345504,88.256317,2024-09-05,Physical Harrasement,Physical Harrasement
+20.968971,89.001247,2021-07-11,Forceful Migration,Forceful Migration
+23.804783,88.162346,2024-02-01,Forceful Migration,Forceful Migration
+22.439183,91.449737,2025-04-18,Forceful Migration,Forceful Migration
+23.877214,89.145903,2022-11-02,Property Damage,Property Damage
+25.055788,88.489981,2022-01-08,Killing/Death,Killing/Death
+21.150154,92.315489,2020-09-25,Vandalism,Vandalism
+24.300163,90.777262,2021-01-04,Forceful Migration,Forceful Migration
+21.803467,92.303458,2025-05-25,Killing/Death,Killing/Death
+21.50578,90.63334,2022-09-11,Property Damage,Property Damage
+23.367045,90.14347,2025-02-04,Physical Harrasement,Physical Harrasement
+22.453239,92.532116,2022-06-20,Forceful Migration,Forceful Migration
+23.370247,88.984412,2025-07-02,Killing/Death,Killing/Death
+23.388019,88.981341,2025-10-12,Property Damage,Property Damage
+21.231828,88.804635,2025-06-12,Physical Harrasement,Physical Harrasement
+26.445277,91.05946,2020-08-27,Killing/Death,Killing/Death
+23.702483,90.960792,2024-02-06,Physical Harrasement,Physical Harrasement
+25.866507,88.807345,2022-05-24,Physical Harrasement,Physical Harrasement
+21.635084,92.395194,2024-12-24,Temple Destruction,Temple Destruction
+24.891221,89.116819,2024-12-23,Temple Destruction,Temple Destruction
+21.877407,91.615577,2024-11-13,Property Damage,Property Damage
+25.703933,92.069999,2024-07-03,Forceful Migration,Forceful Migration
+25.776992,91.670041,2022-01-22,Forceful Migration,Forceful Migration
+23.698935,90.793536,2021-06-20,Killing/Death,Killing/Death
+23.732213,91.367979,2020-10-06,Killing/Death,Killing/Death
+26.459356,91.035983,2023-05-21,Property Damage,Property Damage
+22.884624,92.238193,2021-06-02,Forceful Migration,Forceful Migration
+23.034872,89.999087,2024-06-22,Killing/Death,Killing/Death
+23.34116,91.285738,2022-11-22,Property Damage,Property Damage
+23.463051,89.161769,2022-07-13,Temple Destruction,Temple Destruction
+21.448766,88.444567,2024-08-15,Killing/Death,Killing/Death
+24.710338,91.820162,2025-07-05,Physical Harrasement,Physical Harrasement
+25.205182,88.410288,2022-02-09,Temple Destruction,Temple Destruction
+24.81604,91.454335,2024-06-02,Property Damage,Property Damage
+24.695583,89.495834,2024-02-26,Property Damage,Property Damage
+22.101113,91.019512,2024-12-15,Killing/Death,Killing/Death
+24.314262,90.853965,2024-05-16,Property Damage,Property Damage
+25.338496,88.835866,2024-10-19,Vandalism,Vandalism
+23.536493,90.266071,2023-12-16,Physical Harrasement,Physical Harrasement
+26.282228,90.473071,2021-03-03,Killing/Death,Killing/Death
+22.309115,90.835065,2023-05-14,Property Damage,Property Damage
+22.072875,89.027893,2025-01-06,Property Damage,Property Damage
+21.553594,88.950009,2024-12-14,Temple Destruction,Temple Destruction
+26.106175,89.231777,2025-02-04,Physical Harrasement,Physical Harrasement
+21.990896,90.439282,2021-02-25,Physical Harrasement,Physical Harrasement
+25.151224,92.641812,2025-08-12,Killing/Death,Killing/Death
+24.240005,92.664339,2022-04-02,Vandalism,Vandalism
+24.28252,88.387165,2021-11-30,Vandalism,Vandalism
+21.526376,88.53526,2023-05-31,Physical Harrasement,Physical Harrasement
+25.655645,91.25659,2020-04-05,Property Damage,Property Damage
+23.757761,92.414541,2021-12-31,Vandalism,Vandalism
+23.456005,88.278581,2020-02-09,Temple Destruction,Temple Destruction
+22.765289,90.8992,2025-11-15,Property Damage,Property Damage
+21.110826,89.32175,2020-11-08,Killing/Death,Killing/Death
+23.582593,91.315478,2024-08-02,Vandalism,Vandalism
+25.093304,92.328542,2020-06-07,Property Damage,Property Damage
+20.88593,88.437625,2022-06-04,Physical Harrasement,Physical Harrasement
+26.395298,92.189588,2023-11-10,Killing/Death,Killing/Death
+25.182418,88.236246,2022-07-14,Physical Harrasement,Physical Harrasement
+21.502575,90.15707,2024-06-16,Physical Harrasement,Physical Harrasement
+22.492706,89.672859,2022-01-20,Property Damage,Property Damage
+23.618068,88.715769,2025-09-01,Vandalism,Vandalism
+26.204235,88.111962,2021-06-11,Vandalism,Vandalism
+26.101217,88.732075,2021-12-05,Vandalism,Vandalism
+24.611543,90.002676,2022-05-27,Property Damage,Property Damage
+25.48065,90.192969,2024-02-25,Killing/Death,Killing/Death
+25.302211,89.408575,2024-05-25,Vandalism,Vandalism
+23.493637,92.116704,2021-08-21,Physical Harrasement,Physical Harrasement
+21.554348,89.783051,2020-10-02,Physical Harrasement,Physical Harrasement
+24.872102,90.978556,2025-12-16,Temple Destruction,Temple Destruction
+21.590097,92.598082,2021-04-09,Temple Destruction,Temple Destruction
+21.50331,88.355721,2025-12-30,Physical Harrasement,Physical Harrasement
+23.924316,90.316899,2021-09-02,Vandalism,Vandalism
+23.691027,92.538963,2020-10-19,Property Damage,Property Damage
+23.199728,89.809631,2020-07-26,Killing/Death,Killing/Death
+23.255458,92.017103,2025-11-18,Killing/Death,Killing/Death
+21.770987,88.954168,2025-07-29,Physical Harrasement,Physical Harrasement
+22.221134,91.832353,2020-04-16,Killing/Death,Killing/Death
+25.766356,89.018531,2024-10-26,Vandalism,Vandalism
+21.72316,88.429299,2022-08-01,Vandalism,Vandalism
+21.563174,88.443121,2022-04-29,Temple Destruction,Temple Destruction
+24.439637,88.545188,2021-08-25,Physical Harrasement,Physical Harrasement
+21.176714,88.942433,2024-12-07,Temple Destruction,Temple Destruction
+22.560287,92.558981,2024-02-26,Property Damage,Property Damage
+24.20689,89.036098,2023-12-26,Temple Destruction,Temple Destruction
+25.357259,91.20973,2020-05-22,Property Damage,Property Damage
+21.422814,88.735574,2022-08-27,Vandalism,Vandalism
+20.729368,91.318349,2023-09-20,Physical Harrasement,Physical Harrasement
+25.731405,89.055221,2022-11-13,Killing/Death,Killing/Death
+24.317248,89.557388,2025-07-27,Temple Destruction,Temple Destruction
+26.438639,89.124461,2025-06-20,Property Damage,Property Damage
+26.275026,90.123676,2020-12-13,Property Damage,Property Damage
+26.583893,89.662443,2025-09-13,Physical Harrasement,Physical Harrasement
+25.79229,89.640692,2021-11-22,Killing/Death,Killing/Death
+23.052496,88.313012,2020-08-04,Property Damage,Property Damage
+26.14887,88.880621,2025-02-12,Forceful Migration,Forceful Migration
+25.764394,92.561947,2023-07-06,Forceful Migration,Forceful Migration
+24.690258,91.993127,2021-03-09,Vandalism,Vandalism
+23.954988,89.332603,2023-08-11,Killing/Death,Killing/Death
+22.168485,89.949147,2023-09-06,Vandalism,Vandalism
+21.638627,91.113921,2024-02-15,Temple Destruction,Temple Destruction
+20.665485,88.21669,2024-08-22,Vandalism,Vandalism
+26.324138,92.08424,2022-07-20,Vandalism,Vandalism
+25.270091,91.43524,2024-07-13,Vandalism,Vandalism
+24.043205,89.248983,2021-02-06,Property Damage,Property Damage
+24.864502,92.30524,2024-08-28,Killing/Death,Killing/Death
+21.992636,88.326699,2021-11-02,Property Damage,Property Damage
+23.766052,92.207809,2022-07-01,Vandalism,Vandalism
+25.662409,90.961534,2022-11-13,Temple Destruction,Temple Destruction
+22.440226,92.214036,2020-02-28,Forceful Migration,Forceful Migration
+23.205128,91.599937,2022-11-06,Killing/Death,Killing/Death
+22.17199,89.131226,2023-02-18,Temple Destruction,Temple Destruction
+25.125271,92.677667,2020-10-12,Forceful Migration,Forceful Migration
+20.998097,91.290345,2021-08-10,Forceful Migration,Forceful Migration
+26.017142,88.843846,2021-07-04,Vandalism,Vandalism
+25.844171,88.790679,2025-04-16,Property Damage,Property Damage
+20.925294,88.864126,2020-12-07,Temple Destruction,Temple Destruction
+23.40532,88.014696,2021-07-27,Property Damage,Property Damage
+22.926122,90.982219,2022-01-11,Temple Destruction,Temple Destruction
+22.930638,90.011684,2021-10-25,Physical Harrasement,Physical Harrasement
+25.257944,92.024202,2025-05-13,Temple Destruction,Temple Destruction
+22.35851,88.304736,2022-07-18,Physical Harrasement,Physical Harrasement
+24.02109,90.863278,2020-01-27,Forceful Migration,Forceful Migration
+22.124937,90.004678,2021-08-27,Forceful Migration,Forceful Migration
+23.457364,91.989063,2020-11-05,Forceful Migration,Forceful Migration
+24.166685,92.344238,2020-11-28,Forceful Migration,Forceful Migration
+24.210381,89.711423,2021-12-29,Forceful Migration,Forceful Migration
+25.683084,91.228494,2020-09-15,Physical Harrasement,Physical Harrasement
+22.404514,91.550027,2025-08-08,Vandalism,Vandalism
+25.722036,92.579621,2022-12-26,Vandalism,Vandalism
+26.36467,89.27211,2021-01-11,Property Damage,Property Damage
+26.393092,90.317128,2021-08-04,Temple Destruction,Temple Destruction
+22.178895,89.42904,2024-11-05,Physical Harrasement,Physical Harrasement
+22.205533,89.720889,2023-06-23,Vandalism,Vandalism
+24.95494,89.505199,2021-10-06,Physical Harrasement,Physical Harrasement
+24.892539,91.35873,2020-02-27,Forceful Migration,Forceful Migration
+24.146865,92.601736,2020-04-03,Physical Harrasement,Physical Harrasement
+20.804213,88.852392,2021-03-18,Killing/Death,Killing/Death
+23.279989,91.669865,2025-11-23,Killing/Death,Killing/Death
+23.965513,89.764181,2024-10-03,Physical Harrasement,Physical Harrasement
+23.6808,90.665558,2023-06-29,Vandalism,Vandalism
+25.959364,92.673987,2024-01-13,Vandalism,Vandalism
+21.64992,92.557911,2025-02-17,Temple Destruction,Temple Destruction
+23.241954,89.042908,2022-12-09,Physical Harrasement,Physical Harrasement
+23.488293,89.791934,2024-08-03,Vandalism,Vandalism
+20.879927,91.291959,2024-12-20,Forceful Migration,Forceful Migration
+25.25811,92.526308,2023-07-10,Temple Destruction,Temple Destruction
+23.682285,90.249284,2021-04-23,Forceful Migration,Forceful Migration
+25.197619,91.268712,2021-02-12,Forceful Migration,Forceful Migration
+22.330012,90.022641,2020-10-22,Property Damage,Property Damage
+22.403592,88.116709,2024-10-12,Property Damage,Property Damage
+22.767514,89.57895,2022-03-30,Killing/Death,Killing/Death
+26.15618,90.901557,2025-09-05,Temple Destruction,Temple Destruction
+23.78858,88.369535,2023-10-10,Temple Destruction,Temple Destruction
+24.391858,90.756551,2024-04-16,Property Damage,Property Damage
+25.439399,90.980614,2020-09-19,Vandalism,Vandalism
+22.765759,89.546764,2023-06-26,Vandalism,Vandalism
+22.175742,92.688232,2021-05-08,Forceful Migration,Forceful Migration
+25.338092,90.342352,2023-08-05,Temple Destruction,Temple Destruction
+26.426914,91.337535,2025-04-18,Killing/Death,Killing/Death
+23.389205,90.214886,2025-04-17,Temple Destruction,Temple Destruction
+26.491917,88.961234,2021-11-03,Physical Harrasement,Physical Harrasement
+26.346504,89.511009,2020-03-16,Vandalism,Vandalism
+24.804177,92.267353,2022-12-26,Vandalism,Vandalism
+26.296347,90.098492,2022-03-29,Property Damage,Property Damage
+21.682073,88.261965,2022-04-03,Killing/Death,Killing/Death
+22.103613,91.680063,2025-04-12,Temple Destruction,Temple Destruction
+22.17638,88.564933,2022-04-24,Vandalism,Vandalism
+26.429422,89.486258,2025-10-17,Vandalism,Vandalism
+21.917506,91.35694,2020-04-25,Physical Harrasement,Physical Harrasement
+22.446239,90.638213,2022-12-06,Temple Destruction,Temple Destruction
+24.042661,88.449255,2023-11-07,Forceful Migration,Forceful Migration
+21.110355,92.026208,2021-01-04,Forceful Migration,Forceful Migration
+24.635396,88.317676,2023-08-08,Killing/Death,Killing/Death
+22.39287,88.100645,2025-12-29,Vandalism,Vandalism
+24.894759,91.229686,2023-12-22,Forceful Migration,Forceful Migration
+21.56901,91.574182,2020-12-17,Property Damage,Property Damage
+25.586029,91.106781,2025-04-13,Property Damage,Property Damage
+25.001536,89.741766,2020-04-19,Forceful Migration,Forceful Migration
+23.267831,89.083496,2022-08-22,Forceful Migration,Forceful Migration
+26.1385,88.15929,2022-07-23,Forceful Migration,Forceful Migration
+24.408458,90.005229,2020-03-08,Temple Destruction,Temple Destruction
+23.585521,88.219574,2023-01-09,Physical Harrasement,Physical Harrasement
+25.298865,90.116251,2024-02-01,Vandalism,Vandalism
+22.382115,88.11646,2022-04-14,Temple Destruction,Temple Destruction
+21.744467,88.08133,2020-08-14,Physical Harrasement,Physical Harrasement
+21.993545,90.540708,2024-10-20,Killing/Death,Killing/Death
+23.531186,88.30453,2023-04-01,Temple Destruction,Temple Destruction
+24.92926,92.506724,2024-05-02,Temple Destruction,Temple Destruction
+20.975332,92.381938,2025-10-24,Vandalism,Vandalism
+23.967548,91.758625,2020-11-11,Vandalism,Vandalism
+23.86903,89.468487,2025-01-23,Temple Destruction,Temple Destruction
+24.830638,89.626881,2024-09-03,Physical Harrasement,Physical Harrasement
+26.278896,92.355238,2025-05-16,Temple Destruction,Temple Destruction
+25.276413,89.321448,2020-04-20,Temple Destruction,Temple Destruction
+23.218767,90.133108,2020-05-22,Killing/Death,Killing/Death
+26.034037,89.978749,2020-05-26,Forceful Migration,Forceful Migration
+26.493939,88.333032,2021-06-15,Killing/Death,Killing/Death
+20.944864,88.512084,2023-08-18,Killing/Death,Killing/Death
+26.113074,89.096692,2022-09-14,Physical Harrasement,Physical Harrasement
+24.02702,91.19832,2023-01-19,Physical Harrasement,Physical Harrasement
+25.337797,90.945402,2023-10-16,Vandalism,Vandalism
+22.373349,89.332973,2020-10-27,Physical Harrasement,Physical Harrasement
+25.181286,89.365882,2020-09-28,Physical Harrasement,Physical Harrasement
+24.079431,88.81622,2023-06-06,Forceful Migration,Forceful Migration
+23.202904,91.380121,2023-02-06,Vandalism,Vandalism
+24.233392,88.729442,2025-10-16,Forceful Migration,Forceful Migration
+22.772669,88.122843,2020-05-13,Forceful Migration,Forceful Migration
+23.775948,90.217999,2021-04-16,Property Damage,Property Damage
+21.788201,90.239473,2022-12-11,Forceful Migration,Forceful Migration
+22.202783,90.147483,2020-05-13,Property Damage,Property Damage
+22.145346,91.825828,2023-01-14,Temple Destruction,Temple Destruction
+25.67811,88.398835,2021-12-01,Temple Destruction,Temple Destruction
+22.695655,89.827843,2023-08-09,Killing/Death,Killing/Death
+26.314727,88.31844,2023-09-17,Temple Destruction,Temple Destruction
+26.339334,88.10983,2025-02-19,Property Damage,Property Damage
+23.607431,92.347514,2023-10-22,Physical Harrasement,Physical Harrasement
+25.633259,89.518175,2021-09-10,Killing/Death,Killing/Death
+24.739427,90.016068,2020-05-30,Property Damage,Property Damage
+21.708903,89.128316,2024-06-21,Property Damage,Property Damage
+26.392388,89.158482,2025-08-09,Temple Destruction,Temple Destruction
+25.946068,90.92296,2023-04-14,Temple Destruction,Temple Destruction
+21.185434,89.294055,2022-12-16,Temple Destruction,Temple Destruction
+22.798585,90.787444,2023-06-24,Forceful Migration,Forceful Migration
+26.456058,89.162933,2023-03-09,Property Damage,Property Damage
+26.385482,92.034322,2025-02-06,Forceful Migration,Forceful Migration
+21.716655,90.070752,2021-02-04,Forceful Migration,Forceful Migration
+22.045545,92.534544,2021-07-20,Vandalism,Vandalism
+24.493547,89.684729,2024-09-18,Killing/Death,Killing/Death
+24.960456,90.562753,2023-12-29,Vandalism,Vandalism
+22.314216,91.667613,2025-03-04,Physical Harrasement,Physical Harrasement
+22.4944,91.634825,2020-05-09,Forceful Migration,Forceful Migration
+26.443099,91.276727,2020-10-15,Temple Destruction,Temple Destruction
+22.63645,90.144778,2021-05-13,Property Damage,Property Damage
+26.36728,89.705426,2025-11-12,Property Damage,Property Damage
+26.13893,88.611848,2025-03-28,Temple Destruction,Temple Destruction
+23.900503,89.810923,2025-11-03,Killing/Death,Killing/Death
+26.101829,90.28316,2023-02-16,Forceful Migration,Forceful Migration
+24.104548,88.533287,2022-09-18,Property Damage,Property Damage
+24.494477,89.400434,2020-06-25,Killing/Death,Killing/Death
+22.656865,91.895832,2022-06-01,Property Damage,Property Damage
+22.192569,89.077268,2022-06-21,Killing/Death,Killing/Death
+20.92175,91.129258,2021-03-06,Physical Harrasement,Physical Harrasement
+25.307785,90.885312,2025-08-04,Temple Destruction,Temple Destruction
+24.893399,90.398712,2024-07-24,Physical Harrasement,Physical Harrasement
+25.816495,89.662514,2020-08-03,Property Damage,Property Damage
+22.358839,88.927194,2022-03-24,Forceful Migration,Forceful Migration
+21.208996,88.450182,2025-07-21,Forceful Migration,Forceful Migration
+22.179629,91.194489,2020-09-24,Vandalism,Vandalism
+23.947516,91.908224,2022-05-02,Vandalism,Vandalism
+23.750235,92.066174,2020-04-21,Vandalism,Vandalism
+24.011031,90.891878,2024-02-11,Vandalism,Vandalism
+25.325131,92.576961,2023-07-07,Killing/Death,Killing/Death
+23.738593,90.958121,2020-04-20,Property Damage,Property Damage
+26.295152,89.707005,2023-08-03,Temple Destruction,Temple Destruction
+21.94869,91.070367,2023-09-27,Temple Destruction,Temple Destruction
+26.405857,89.703709,2020-12-31,Forceful Migration,Forceful Migration
+21.772965,91.45872,2020-08-16,Temple Destruction,Temple Destruction
+24.737452,88.858328,2022-01-31,Physical Harrasement,Physical Harrasement
+26.039747,88.840584,2021-07-18,Property Damage,Property Damage
+22.599997,91.512082,2024-08-09,Temple Destruction,Temple Destruction
+26.388712,90.934804,2021-03-12,Property Damage,Property Damage
+23.676501,91.397507,2024-01-23,Physical Harrasement,Physical Harrasement
+24.931075,89.532639,2022-04-09,Killing/Death,Killing/Death
+21.006942,90.295614,2023-02-18,Temple Destruction,Temple Destruction
+22.446684,88.881567,2022-11-20,Property Damage,Property Damage
+25.076197,90.442388,2023-11-05,Property Damage,Property Damage
+21.826879,90.73836,2023-05-24,Physical Harrasement,Physical Harrasement
+23.861696,92.294561,2025-02-08,Physical Harrasement,Physical Harrasement
+23.848751,89.166701,2024-05-31,Vandalism,Vandalism
+23.548594,91.141357,2023-03-09,Physical Harrasement,Physical Harrasement
+22.12575,90.886113,2023-05-29,Temple Destruction,Temple Destruction
+22.262778,88.623374,2024-05-13,Physical Harrasement,Physical Harrasement
+26.184299,89.46816,2021-04-19,Killing/Death,Killing/Death
+25.87909,91.065172,2023-10-16,Vandalism,Vandalism
+23.607049,92.640952,2023-01-22,Property Damage,Property Damage
+21.373574,90.107501,2022-06-27,Property Damage,Property Damage
+22.452289,92.605466,2020-02-07,Vandalism,Vandalism
+21.444239,92.453371,2022-09-18,Property Damage,Property Damage
+24.522417,90.741082,2024-03-31,Killing/Death,Killing/Death
+21.928591,92.027534,2023-12-02,Property Damage,Property Damage
+23.373285,89.413815,2022-12-07,Physical Harrasement,Physical Harrasement
+24.355738,91.469053,2022-10-31,Temple Destruction,Temple Destruction
+22.574957,88.940358,2021-08-17,Forceful Migration,Forceful Migration
+26.575623,89.417092,2024-03-15,Temple Destruction,Temple Destruction
+22.610039,88.835106,2021-03-26,Physical Harrasement,Physical Harrasement
+21.069491,89.836297,2022-12-12,Forceful Migration,Forceful Migration
+23.244873,89.873405,2022-05-01,Property Damage,Property Damage
+21.293038,91.70711,2021-08-30,Property Damage,Property Damage
+24.268388,89.529835,2022-02-20,Temple Destruction,Temple Destruction
+25.452588,92.638631,2020-01-12,Physical Harrasement,Physical Harrasement
+24.204946,92.305081,2025-07-26,Physical Harrasement,Physical Harrasement
+23.094787,89.823692,2023-01-24,Property Damage,Property Damage
+25.264681,91.670868,2024-04-09,Killing/Death,Killing/Death
+22.462521,91.846503,2025-06-21,Vandalism,Vandalism
+22.271156,92.089732,2024-06-11,Vandalism,Vandalism
+20.751981,89.338464,2023-10-23,Temple Destruction,Temple Destruction
+26.507577,91.116412,2021-01-23,Property Damage,Property Damage
+21.511271,90.956571,2023-03-26,Property Damage,Property Damage
+23.816542,88.741615,2022-10-05,Forceful Migration,Forceful Migration
+26.294775,89.161041,2023-01-13,Property Damage,Property Damage
+25.133926,89.93393,2020-09-23,Temple Destruction,Temple Destruction
+22.220135,88.84695,2023-10-10,Vandalism,Vandalism
+20.812892,92.576127,2025-06-06,Vandalism,Vandalism
+22.832477,88.23295,2020-01-24,Vandalism,Vandalism
+22.019228,89.865366,2020-02-14,Property Damage,Property Damage
+20.826062,92.056135,2022-08-29,Property Damage,Property Damage
+20.972745,88.768191,2024-04-16,Vandalism,Vandalism
+21.425114,90.032463,2020-02-03,Forceful Migration,Forceful Migration
+20.707514,91.597741,2021-01-27,Property Damage,Property Damage
+21.5942,90.341543,2023-08-01,Property Damage,Property Damage
+23.985636,92.634333,2021-08-05,Temple Destruction,Temple Destruction
+26.488846,88.116992,2020-09-15,Physical Harrasement,Physical Harrasement
+22.959309,88.291301,2020-05-04,Forceful Migration,Forceful Migration
+26.451734,89.09405,2023-12-09,Temple Destruction,Temple Destruction
+22.164699,90.805016,2020-07-22,Vandalism,Vandalism
+23.003184,88.952627,2021-04-19,Killing/Death,Killing/Death
+21.115693,88.241426,2025-08-27,Physical Harrasement,Physical Harrasement
+22.704406,92.221465,2025-11-24,Forceful Migration,Forceful Migration
+20.857734,90.24764,2021-06-01,Killing/Death,Killing/Death
+26.004796,91.036505,2025-01-12,Forceful Migration,Forceful Migration
+26.048425,92.243578,2022-06-23,Physical Harrasement,Physical Harrasement
+23.03254,91.740516,2024-07-25,Killing/Death,Killing/Death
+21.125674,89.023852,2021-10-12,Killing/Death,Killing/Death
+22.934335,90.711598,2020-03-08,Forceful Migration,Forceful Migration
+23.019434,88.860841,2022-08-19,Forceful Migration,Forceful Migration
+24.311367,89.358348,2022-01-23,Physical Harrasement,Physical Harrasement
+22.309199,88.33517,2022-08-02,Vandalism,Vandalism
+23.62496,91.205764,2022-06-27,Vandalism,Vandalism
+21.575364,89.31553,2023-09-26,Vandalism,Vandalism
+22.820051,88.351455,2020-08-19,Forceful Migration,Forceful Migration
+23.103437,90.176645,2023-08-18,Physical Harrasement,Physical Harrasement
+21.659867,91.077854,2022-10-15,Vandalism,Vandalism
+25.730364,90.161663,2020-03-31,Vandalism,Vandalism
+21.85206,91.571531,2020-04-25,Physical Harrasement,Physical Harrasement
+25.201787,88.148827,2021-10-01,Property Damage,Property Damage
+23.762156,88.6642,2021-12-02,Vandalism,Vandalism
+23.912865,90.972287,2022-04-20,Property Damage,Property Damage
+24.144934,88.311927,2023-02-18,Killing/Death,Killing/Death
+24.803706,89.481506,2022-01-26,Forceful Migration,Forceful Migration
+24.014956,92.103403,2023-12-09,Forceful Migration,Forceful Migration
+21.915064,92.010771,2023-10-25,Vandalism,Vandalism
+26.136618,88.105717,2020-11-05,Property Damage,Property Damage
+23.539442,88.750576,2024-12-03,Vandalism,Vandalism
+23.672299,90.44054,2021-09-10,Temple Destruction,Temple Destruction
+21.454954,90.210887,2021-09-10,Temple Destruction,Temple Destruction
+22.075641,92.611361,2024-08-07,Property Damage,Property Damage
+21.486502,92.696133,2021-01-11,Temple Destruction,Temple Destruction
+21.849508,91.702166,2021-04-07,Vandalism,Vandalism
+25.5883,91.224607,2025-03-26,Killing/Death,Killing/Death
+23.511996,91.093515,2021-10-21,Temple Destruction,Temple Destruction
+25.53699,88.590461,2021-07-04,Vandalism,Vandalism
+25.718657,90.281091,2025-09-04,Physical Harrasement,Physical Harrasement
+25.577733,88.650038,2022-01-27,Temple Destruction,Temple Destruction
+20.782716,90.961063,2023-08-19,Temple Destruction,Temple Destruction
+24.764125,89.889814,2023-08-17,Property Damage,Property Damage
+24.158387,90.129925,2020-03-09,Temple Destruction,Temple Destruction
+21.364408,90.91831,2025-11-17,Vandalism,Vandalism
+26.585306,92.248501,2022-04-10,Killing/Death,Killing/Death
+22.194848,91.681813,2025-02-21,Vandalism,Vandalism
+24.587331,90.26077,2020-08-29,Killing/Death,Killing/Death
+24.032194,91.447324,2021-04-05,Physical Harrasement,Physical Harrasement
+21.691328,89.139957,2020-09-13,Temple Destruction,Temple Destruction
+21.939054,92.086207,2020-08-19,Physical Harrasement,Physical Harrasement
+24.134702,89.629876,2025-08-19,Vandalism,Vandalism
+21.729009,89.334446,2023-12-03,Vandalism,Vandalism
+25.427002,90.685464,2020-01-16,Temple Destruction,Temple Destruction
+23.967241,90.545117,2021-09-09,Temple Destruction,Temple Destruction
+23.899722,88.779466,2021-05-17,Physical Harrasement,Physical Harrasement
+22.945004,92.189784,2023-04-08,Forceful Migration,Forceful Migration
+25.80155,91.612522,2021-04-04,Vandalism,Vandalism
+24.75222,92.247134,2025-12-30,Vandalism,Vandalism
+25.355284,89.918993,2020-01-21,Killing/Death,Killing/Death
+25.010089,89.081495,2021-11-03,Killing/Death,Killing/Death
+26.137497,90.168679,2021-04-21,Forceful Migration,Forceful Migration
+24.301317,91.966161,2024-08-18,Physical Harrasement,Physical Harrasement
+25.295082,91.610715,2024-08-29,Temple Destruction,Temple Destruction
+25.770147,89.896537,2023-12-18,Temple Destruction,Temple Destruction
+22.630147,91.233541,2022-11-17,Physical Harrasement,Physical Harrasement
+21.488334,88.333249,2022-09-26,Temple Destruction,Temple Destruction
+22.366399,89.168312,2025-12-05,Property Damage,Property Damage
+23.025761,88.331361,2022-04-07,Vandalism,Vandalism
+26.24597,89.107426,2020-10-06,Temple Destruction,Temple Destruction
+22.569817,91.381753,2021-10-20,Physical Harrasement,Physical Harrasement
+26.034719,89.527485,2021-10-16,Physical Harrasement,Physical Harrasement
+21.071085,89.585279,2023-09-11,Vandalism,Vandalism
+23.926569,92.021382,2022-02-11,Temple Destruction,Temple Destruction
+23.525673,90.203475,2020-11-16,Physical Harrasement,Physical Harrasement
+22.889354,90.894902,2023-04-15,Forceful Migration,Forceful Migration
+25.674846,89.033746,2021-03-31,Temple Destruction,Temple Destruction
+25.113854,90.528726,2021-03-21,Vandalism,Vandalism
+22.888238,89.119272,2025-06-24,Temple Destruction,Temple Destruction
+23.558585,90.301706,2025-08-24,Forceful Migration,Forceful Migration
+26.210596,91.894146,2023-07-24,Vandalism,Vandalism
+23.12174,91.486723,2025-01-25,Physical Harrasement,Physical Harrasement
+24.655681,91.333682,2022-09-10,Physical Harrasement,Physical Harrasement
+20.884203,88.24987,2024-10-11,Physical Harrasement,Physical Harrasement
+21.19227,92.349025,2022-11-12,Property Damage,Property Damage
+22.894659,88.882126,2023-03-30,Physical Harrasement,Physical Harrasement
+24.608143,89.396549,2020-04-07,Temple Destruction,Temple Destruction
+26.576871,91.528517,2024-07-07,Physical Harrasement,Physical Harrasement
+24.87263,88.30721,2025-03-08,Temple Destruction,Temple Destruction
+21.945813,92.032191,2024-04-13,Property Damage,Property Damage
+23.824707,90.279664,2022-08-24,Vandalism,Vandalism
+22.995504,88.531208,2021-06-08,Temple Destruction,Temple Destruction
+26.442619,88.722568,2020-04-08,Physical Harrasement,Physical Harrasement
+21.253389,88.910488,2024-07-25,Vandalism,Vandalism
+22.280627,89.717179,2024-11-26,Vandalism,Vandalism
+23.202662,89.305527,2024-01-12,Property Damage,Property Damage
+22.392425,90.16071,2023-05-08,Forceful Migration,Forceful Migration
+22.579232,89.631436,2022-09-11,Property Damage,Property Damage
+25.15715,92.574065,2024-02-18,Killing/Death,Killing/Death
+21.104169,91.592584,2020-08-08,Property Damage,Property Damage
+21.705919,92.131537,2020-02-02,Forceful Migration,Forceful Migration
+21.126508,88.992686,2020-08-25,Temple Destruction,Temple Destruction
+22.806472,88.57278,2023-07-06,Property Damage,Property Damage
+25.914762,89.905822,2022-11-21,Temple Destruction,Temple Destruction
+21.473717,89.61187,2025-06-26,Temple Destruction,Temple Destruction
+24.817113,90.782333,2025-05-08,Physical Harrasement,Physical Harrasement
+23.541356,90.166953,2021-05-28,Physical Harrasement,Physical Harrasement
+22.545869,89.500793,2024-02-14,Temple Destruction,Temple Destruction
+24.294649,88.78413,2025-09-14,Forceful Migration,Forceful Migration
+22.476661,89.114006,2025-01-01,Physical Harrasement,Physical Harrasement
+23.700363,89.70945,2024-12-24,Temple Destruction,Temple Destruction
+22.26981,91.267325,2024-09-28,Vandalism,Vandalism
+23.449291,90.211607,2023-02-10,Vandalism,Vandalism
+20.725247,88.46741,2024-05-08,Physical Harrasement,Physical Harrasement
+23.023293,92.312044,2024-06-21,Killing/Death,Killing/Death
+21.981295,89.889133,2023-10-09,Vandalism,Vandalism
+22.655262,91.854841,2020-11-11,Physical Harrasement,Physical Harrasement
+21.303364,91.866451,2021-08-19,Vandalism,Vandalism
+20.629954,90.452266,2022-10-21,Temple Destruction,Temple Destruction
+23.922377,90.265534,2023-02-03,Forceful Migration,Forceful Migration
+24.824766,91.634041,2023-12-12,Killing/Death,Killing/Death
+20.826563,91.690722,2021-06-15,Property Damage,Property Damage
+22.72298,91.866772,2020-03-13,Forceful Migration,Forceful Migration
+25.284647,88.912603,2023-04-10,Property Damage,Property Damage
+23.626142,90.074419,2022-11-14,Property Damage,Property Damage
+21.800155,91.976566,2022-06-21,Physical Harrasement,Physical Harrasement
+23.896117,91.538647,2024-10-18,Forceful Migration,Forceful Migration
+22.134034,89.698109,2025-04-03,Vandalism,Vandalism
+25.798574,92.695304,2024-06-17,Killing/Death,Killing/Death
+23.160393,90.863783,2025-06-20,Physical Harrasement,Physical Harrasement
+23.461118,90.5915,2020-03-20,Vandalism,Vandalism
+24.450259,91.994309,2020-10-30,Property Damage,Property Damage
+24.187869,92.004062,2025-01-14,Temple Destruction,Temple Destruction
+21.027028,89.488728,2024-07-05,Forceful Migration,Forceful Migration
+22.794292,88.351613,2021-06-21,Temple Destruction,Temple Destruction
+22.216788,90.476477,2021-05-23,Physical Harrasement,Physical Harrasement
+22.20773,88.834902,2020-01-14,Killing/Death,Killing/Death
+23.533546,90.982262,2020-01-05,Vandalism,Vandalism
+25.288568,89.698235,2020-05-24,Killing/Death,Killing/Death
+26.126696,90.254205,2021-01-02,Property Damage,Property Damage
+24.792402,90.811885,2022-01-16,Killing/Death,Killing/Death
+25.782996,92.669699,2021-07-31,Temple Destruction,Temple Destruction
+22.212786,92.577296,2024-09-29,Forceful Migration,Forceful Migration
+26.166165,89.432954,2025-12-18,Temple Destruction,Temple Destruction
+22.036171,89.690838,2025-01-30,Temple Destruction,Temple Destruction
+21.56921,90.247979,2025-10-27,Temple Destruction,Temple Destruction
+21.089108,90.523712,2025-04-18,Killing/Death,Killing/Death
+26.322662,89.895922,2023-05-21,Temple Destruction,Temple Destruction
+23.305117,88.318521,2022-08-13,Physical Harrasement,Physical Harrasement
+25.332907,92.116919,2023-08-07,Vandalism,Vandalism
+21.091566,88.361158,2025-01-20,Property Damage,Property Damage
+20.801851,89.824554,2025-08-14,Vandalism,Vandalism
+22.689367,89.248665,2020-08-20,Forceful Migration,Forceful Migration
+22.448718,88.260334,2022-05-26,Vandalism,Vandalism
+20.887802,88.341373,2024-06-05,Property Damage,Property Damage
+25.810098,90.563803,2022-06-05,Vandalism,Vandalism
+24.883123,92.121898,2021-04-30,Property Damage,Property Damage
+22.508719,88.096951,2024-03-17,Forceful Migration,Forceful Migration
+23.052668,90.48175,2024-12-22,Physical Harrasement,Physical Harrasement
+21.258404,88.293675,2025-05-12,Property Damage,Property Damage
+23.94877,90.229433,2024-01-30,Vandalism,Vandalism
+25.036661,91.516144,2024-04-29,Temple Destruction,Temple Destruction
+24.373867,91.484241,2023-04-28,Forceful Migration,Forceful Migration
+21.189434,89.285741,2024-07-02,Physical Harrasement,Physical Harrasement
+23.833052,90.496587,2025-09-12,Killing/Death,Killing/Death
+21.89706,89.136099,2022-11-19,Vandalism,Vandalism
+20.813286,91.71301,2024-06-17,Killing/Death,Killing/Death
+21.591698,88.700973,2023-05-11,Temple Destruction,Temple Destruction
+23.575786,90.414016,2024-01-27,Forceful Migration,Forceful Migration
+24.89392,89.833052,2020-12-22,Temple Destruction,Temple Destruction
+25.895094,92.145707,2020-12-04,Temple Destruction,Temple Destruction
+22.969965,91.532311,2024-06-01,Forceful Migration,Forceful Migration
+24.123114,90.567931,2022-01-30,Forceful Migration,Forceful Migration
+22.67841,91.104154,2020-12-21,Physical Harrasement,Physical Harrasement
+24.334401,88.421988,2025-11-23,Temple Destruction,Temple Destruction
+20.994131,90.385284,2025-02-18,Temple Destruction,Temple Destruction
+21.220024,90.841116,2022-01-24,Vandalism,Vandalism
+21.89138,92.095492,2025-01-23,Physical Harrasement,Physical Harrasement
+21.594423,90.26592,2023-07-08,Property Damage,Property Damage
+23.985424,90.903191,2020-01-23,Property Damage,Property Damage
+21.960942,88.709854,2025-03-23,Vandalism,Vandalism
+23.682799,92.104599,2021-04-22,Killing/Death,Killing/Death
+25.337926,88.102889,2022-03-16,Property Damage,Property Damage
+21.966324,91.808064,2021-05-25,Vandalism,Vandalism
+22.367703,89.265939,2022-03-10,Forceful Migration,Forceful Migration
+23.260962,91.536165,2025-05-11,Property Damage,Property Damage
+25.688071,92.307697,2022-08-02,Vandalism,Vandalism
+26.000887,91.959748,2025-10-08,Temple Destruction,Temple Destruction
+23.330926,92.16298,2023-07-12,Forceful Migration,Forceful Migration
+26.16837,91.41791,2021-07-06,Property Damage,Property Damage
+21.085237,92.156195,2022-04-11,Vandalism,Vandalism
+23.732995,90.445237,2022-03-04,Temple Destruction,Temple Destruction
+23.556321,91.343521,2022-11-04,Physical Harrasement,Physical Harrasement
+23.15312,92.470152,2024-07-30,Killing/Death,Killing/Death
+22.101059,88.895056,2020-07-19,Forceful Migration,Forceful Migration
+24.313146,92.558479,2022-10-12,Temple Destruction,Temple Destruction
+25.780787,88.597708,2021-10-03,Physical Harrasement,Physical Harrasement
+26.153972,88.157274,2022-02-22,Temple Destruction,Temple Destruction
+25.960043,91.87942,2022-02-01,Physical Harrasement,Physical Harrasement
+25.875334,92.310058,2025-07-18,Forceful Migration,Forceful Migration
+21.188084,88.381732,2020-12-13,Physical Harrasement,Physical Harrasement
+24.001026,88.263045,2025-11-10,Vandalism,Vandalism
+22.332351,92.154454,2025-03-19,Temple Destruction,Temple Destruction
+26.222829,91.670087,2020-10-19,Temple Destruction,Temple Destruction
+23.556305,90.164958,2020-04-03,Property Damage,Property Damage
+23.832219,89.596416,2023-06-02,Forceful Migration,Forceful Migration
+22.835572,88.950697,2020-12-19,Forceful Migration,Forceful Migration
+23.32694,90.89073,2022-04-24,Property Damage,Property Damage
+21.668163,91.341702,2023-03-22,Forceful Migration,Forceful Migration
+24.294332,89.628373,2023-03-26,Killing/Death,Killing/Death
+21.054884,89.489001,2023-06-22,Killing/Death,Killing/Death
+26.384969,89.535223,2021-03-08,Temple Destruction,Temple Destruction
+26.365186,90.223443,2023-01-03,Property Damage,Property Damage
+24.278318,88.670821,2024-06-30,Vandalism,Vandalism
+25.80533,90.138127,2023-08-19,Physical Harrasement,Physical Harrasement
+24.067602,90.852872,2023-10-21,Property Damage,Property Damage
+24.074641,89.082962,2020-04-30,Property Damage,Property Damage
+25.877262,91.903854,2024-08-14,Temple Destruction,Temple Destruction
+21.38374,89.551659,2021-05-08,Temple Destruction,Temple Destruction
+23.597677,91.586284,2022-05-22,Forceful Migration,Forceful Migration
+23.910757,88.048193,2020-08-06,Vandalism,Vandalism
+25.045875,88.512518,2022-02-08,Temple Destruction,Temple Destruction
+25.960779,88.51093,2024-03-19,Vandalism,Vandalism
+21.65119,90.436541,2022-08-26,Vandalism,Vandalism
+25.698641,88.254681,2025-01-23,Temple Destruction,Temple Destruction
+23.706263,89.174026,2025-09-04,Killing/Death,Killing/Death
+24.81801,90.490678,2023-04-12,Temple Destruction,Temple Destruction
+25.538259,92.4853,2023-06-07,Property Damage,Property Damage
+22.564483,90.10025,2020-03-10,Vandalism,Vandalism
+23.996017,90.073869,2021-10-26,Vandalism,Vandalism
+22.151244,90.230907,2020-10-04,Forceful Migration,Forceful Migration
+20.682789,90.284038,2021-05-29,Vandalism,Vandalism
+24.496821,92.334697,2025-05-03,Forceful Migration,Forceful Migration
+22.233593,91.891153,2021-02-24,Property Damage,Property Damage
+25.768308,88.561534,2022-07-22,Temple Destruction,Temple Destruction
+25.06316,92.623158,2025-02-18,Property Damage,Property Damage
+26.160158,92.592694,2022-02-16,Property Damage,Property Damage
+20.992973,88.830303,2022-11-26,Temple Destruction,Temple Destruction
+23.425899,89.365508,2023-10-06,Physical Harrasement,Physical Harrasement
+24.788787,91.263179,2021-08-25,Property Damage,Property Damage
+23.499625,88.119075,2021-08-07,Killing/Death,Killing/Death
+24.213353,90.032437,2023-10-16,Property Damage,Property Damage
+20.984696,92.291615,2024-10-18,Vandalism,Vandalism
+21.408425,90.464906,2021-08-19,Temple Destruction,Temple Destruction
+24.015883,89.46454,2021-12-14,Temple Destruction,Temple Destruction
+21.29831,92.090936,2023-08-18,Forceful Migration,Forceful Migration
+26.300828,90.734391,2024-09-10,Forceful Migration,Forceful Migration
+20.764404,89.130583,2024-12-29,Killing/Death,Killing/Death
+20.788394,88.623092,2021-12-16,Physical Harrasement,Physical Harrasement
+21.028514,89.60093,2025-01-30,Temple Destruction,Temple Destruction
+21.644591,90.117371,2021-05-08,Property Damage,Property Damage
+22.302107,88.950118,2021-12-22,Property Damage,Property Damage
+23.769472,92.473054,2023-05-24,Temple Destruction,Temple Destruction
+24.788284,89.06679,2021-11-15,Forceful Migration,Forceful Migration
+26.163615,91.771766,2025-04-13,Vandalism,Vandalism
+25.210435,88.531529,2023-07-20,Killing/Death,Killing/Death
+22.233412,92.56349,2021-02-01,Killing/Death,Killing/Death
+23.63014,88.93586,2021-04-18,Temple Destruction,Temple Destruction
+21.590364,89.984208,2021-03-07,Physical Harrasement,Physical Harrasement
+26.42728,91.197133,2020-05-28,Vandalism,Vandalism
+25.486094,89.014151,2021-03-23,Killing/Death,Killing/Death
+23.139544,92.070531,2024-05-25,Physical Harrasement,Physical Harrasement
+21.4906,88.498347,2021-08-16,Forceful Migration,Forceful Migration
+23.502048,88.106958,2021-11-20,Property Damage,Property Damage
+23.089992,92.039437,2023-09-18,Physical Harrasement,Physical Harrasement
+22.6498,88.116839,2025-03-22,Property Damage,Property Damage
+21.043416,90.24119,2020-06-20,Forceful Migration,Forceful Migration
+23.998993,91.0026,2022-04-04,Killing/Death,Killing/Death
+24.502848,92.587569,2022-05-18,Vandalism,Vandalism
+23.705183,91.54668,2020-07-18,Vandalism,Vandalism
+22.971946,91.790918,2022-06-26,Vandalism,Vandalism
+25.07707,88.879064,2022-02-27,Killing/Death,Killing/Death
+25.4105,88.86862,2024-06-29,Temple Destruction,Temple Destruction
+25.89518,88.305815,2024-03-25,Forceful Migration,Forceful Migration
+25.602507,91.643423,2021-10-29,Property Damage,Property Damage
+24.643734,92.380634,2023-02-17,Temple Destruction,Temple Destruction
+25.909794,90.695118,2025-09-09,Temple Destruction,Temple Destruction
+25.310427,90.121007,2025-01-07,Temple Destruction,Temple Destruction
+22.297453,88.158375,2025-12-08,Physical Harrasement,Physical Harrasement
+22.863868,89.165002,2022-12-03,Property Damage,Property Damage
+20.955632,88.798915,2021-01-14,Property Damage,Property Damage
+21.168429,89.965521,2022-06-26,Killing/Death,Killing/Death
+24.986971,92.062239,2020-10-22,Vandalism,Vandalism
+24.309287,91.010838,2023-07-23,Vandalism,Vandalism
+24.169137,91.182738,2025-10-29,Killing/Death,Killing/Death
+26.269202,90.790694,2022-02-01,Property Damage,Property Damage
+23.988888,89.081874,2022-08-17,Temple Destruction,Temple Destruction
+25.007476,89.4465,2024-05-31,Physical Harrasement,Physical Harrasement
+23.110971,90.182183,2022-03-03,Vandalism,Vandalism
+21.00978,88.947698,2020-11-16,Temple Destruction,Temple Destruction
+22.289698,91.826573,2022-06-11,Vandalism,Vandalism
+26.549791,89.955808,2025-04-14,Property Damage,Property Damage
+22.044204,90.310514,2024-03-01,Temple Destruction,Temple Destruction
+21.789418,88.805136,2021-01-09,Forceful Migration,Forceful Migration
+24.12243,92.333561,2020-06-04,Physical Harrasement,Physical Harrasement
+24.34109,92.507276,2023-08-24,Forceful Migration,Forceful Migration
+25.414852,88.209022,2025-03-30,Property Damage,Property Damage
+25.976665,92.162816,2020-04-15,Vandalism,Vandalism
+21.723567,89.649959,2022-12-23,Vandalism,Vandalism
+24.287148,90.527489,2025-12-14,Killing/Death,Killing/Death
+23.09124,89.489339,2024-12-10,Killing/Death,Killing/Death
+21.201087,88.134787,2022-04-05,Temple Destruction,Temple Destruction
+26.570319,88.724431,2024-12-08,Forceful Migration,Forceful Migration
+24.822562,91.489696,2023-12-22,Forceful Migration,Forceful Migration
+24.288904,90.815709,2025-02-25,Physical Harrasement,Physical Harrasement
+24.119065,90.566547,2022-11-19,Killing/Death,Killing/Death
+23.562671,92.121204,2022-02-22,Vandalism,Vandalism
+22.231852,89.197638,2021-08-17,Forceful Migration,Forceful Migration
+24.155601,91.152437,2020-05-31,Property Damage,Property Damage
+24.840168,91.637126,2025-11-06,Property Damage,Property Damage
+20.750001,92.420895,2021-04-06,Vandalism,Vandalism
+24.326923,91.408432,2025-11-16,Property Damage,Property Damage
+22.665488,92.017331,2022-03-11,Physical Harrasement,Physical Harrasement
+22.807688,91.68951,2024-11-07,Vandalism,Vandalism
+24.597908,92.37527,2022-03-06,Killing/Death,Killing/Death
+25.813748,90.286322,2024-08-23,Temple Destruction,Temple Destruction
+21.986099,88.335285,2025-08-16,Forceful Migration,Forceful Migration
+21.547311,89.696884,2025-11-30,Temple Destruction,Temple Destruction
+22.868924,89.520111,2025-01-25,Forceful Migration,Forceful Migration
+24.004652,88.281397,2022-03-23,Killing/Death,Killing/Death
+26.062765,90.928455,2023-05-08,Physical Harrasement,Physical Harrasement
+24.769684,91.94907,2024-01-15,Property Damage,Property Damage
+25.606541,88.226195,2025-03-24,Property Damage,Property Damage
+25.214548,88.662648,2020-04-15,Forceful Migration,Forceful Migration
+23.071469,89.001924,2023-10-11,Vandalism,Vandalism
+24.25894,92.017518,2025-12-06,Temple Destruction,Temple Destruction
+22.754136,88.779702,2024-05-25,Forceful Migration,Forceful Migration
+22.90301,91.287609,2020-07-14,Temple Destruction,Temple Destruction
+22.699055,88.875977,2024-01-19,Temple Destruction,Temple Destruction
+25.214497,90.919936,2025-06-17,Forceful Migration,Forceful Migration
+23.969377,91.44088,2021-08-23,Vandalism,Vandalism
+23.766884,89.677236,2024-05-27,Property Damage,Property Damage
+23.740569,88.569213,2022-06-18,Killing/Death,Killing/Death
+23.463762,92.087527,2020-08-15,Physical Harrasement,Physical Harrasement
+23.423565,88.572967,2024-11-22,Killing/Death,Killing/Death
+25.160708,92.666257,2021-06-29,Property Damage,Property Damage
+26.302548,90.102506,2022-03-06,Temple Destruction,Temple Destruction
+24.097373,88.724304,2023-11-05,Forceful Migration,Forceful Migration
+25.679439,89.017836,2020-11-18,Vandalism,Vandalism
+25.88899,90.82767,2021-09-18,Physical Harrasement,Physical Harrasement
+23.599497,88.169067,2025-02-04,Forceful Migration,Forceful Migration
+22.201141,91.161801,2025-04-21,Forceful Migration,Forceful Migration
+22.214362,88.007372,2023-02-16,Forceful Migration,Forceful Migration
+26.23808,89.642575,2021-06-10,Property Damage,Property Damage
+25.583723,88.818732,2025-12-16,Physical Harrasement,Physical Harrasement
+23.293496,91.188302,2022-04-25,Vandalism,Vandalism
+24.235567,88.206336,2023-10-04,Physical Harrasement,Physical Harrasement
+22.572893,90.101567,2025-05-01,Temple Destruction,Temple Destruction
+23.408508,89.138595,2025-05-12,Forceful Migration,Forceful Migration
+21.513669,88.378593,2023-02-24,Killing/Death,Killing/Death
+20.677336,88.021664,2020-03-05,Killing/Death,Killing/Death
+23.838977,90.707553,2025-01-08,Property Damage,Property Damage
+26.278993,88.872146,2023-06-27,Vandalism,Vandalism
+21.894854,92.355364,2022-11-06,Property Damage,Property Damage
+23.350021,88.075136,2022-11-20,Property Damage,Property Damage
+26.289922,88.717155,2023-01-09,Temple Destruction,Temple Destruction
+24.611463,92.026341,2020-10-15,Killing/Death,Killing/Death
+23.474367,89.781674,2021-05-02,Temple Destruction,Temple Destruction
+21.879824,88.367835,2022-08-01,Killing/Death,Killing/Death
+22.363144,88.596284,2022-10-26,Physical Harrasement,Physical Harrasement
+24.98624,92.071362,2025-01-20,Killing/Death,Killing/Death
+21.896156,89.068375,2023-01-05,Killing/Death,Killing/Death
+22.12137,89.487218,2023-04-21,Temple Destruction,Temple Destruction
+25.460985,90.725907,2021-03-09,Temple Destruction,Temple Destruction
+24.157032,89.547754,2023-08-28,Property Damage,Property Damage
+25.482652,88.028763,2024-11-03,Physical Harrasement,Physical Harrasement
+22.559185,88.600055,2022-12-19,Temple Destruction,Temple Destruction
+22.737443,89.2279,2025-10-24,Physical Harrasement,Physical Harrasement
+21.089079,90.420997,2023-10-26,Vandalism,Vandalism
+22.888199,88.184486,2025-09-21,Physical Harrasement,Physical Harrasement
+20.97904,89.656583,2025-11-21,Forceful Migration,Forceful Migration
+23.33259,91.754791,2021-05-30,Forceful Migration,Forceful Migration
+21.504203,88.364077,2025-11-09,Temple Destruction,Temple Destruction
+24.064989,92.219435,2025-02-12,Physical Harrasement,Physical Harrasement
+24.088601,88.945427,2021-08-22,Forceful Migration,Forceful Migration
+20.771938,92.177883,2024-11-16,Vandalism,Vandalism
+21.783524,92.200959,2022-04-06,Physical Harrasement,Physical Harrasement
+21.210467,91.335352,2024-03-26,Property Damage,Property Damage
+22.778403,90.110103,2020-01-24,Vandalism,Vandalism
+24.661267,89.703702,2024-06-19,Property Damage,Property Damage
+24.708909,88.839752,2024-10-05,Property Damage,Property Damage
+22.863825,91.345993,2022-01-30,Killing/Death,Killing/Death
+26.07444,90.425224,2023-10-20,Vandalism,Vandalism
+21.3661,89.566226,2020-11-24,Forceful Migration,Forceful Migration
+26.530911,89.532917,2022-12-28,Property Damage,Property Damage
+21.79743,88.904902,2020-11-09,Killing/Death,Killing/Death
+21.353987,89.196069,2022-05-02,Temple Destruction,Temple Destruction
+24.741576,88.259757,2021-04-29,Killing/Death,Killing/Death
+24.890807,89.976481,2025-08-19,Forceful Migration,Forceful Migration
+25.522537,91.422498,2020-07-31,Temple Destruction,Temple Destruction
+25.787704,91.793023,2020-10-29,Physical Harrasement,Physical Harrasement
+25.101086,89.111205,2020-05-09,Vandalism,Vandalism
+22.221508,89.695373,2020-10-06,Property Damage,Property Damage
+22.19138,90.730368,2023-11-24,Vandalism,Vandalism
+25.602275,91.525584,2020-12-27,Temple Destruction,Temple Destruction
+25.378855,88.875412,2021-10-14,Temple Destruction,Temple Destruction
+22.773015,92.367581,2023-05-14,Killing/Death,Killing/Death
+23.6627,91.76529,2020-09-15,Vandalism,Vandalism
